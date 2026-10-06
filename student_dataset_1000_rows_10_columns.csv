@@ -1,0 +1,1001 @@
+Student_ID,Name,Age,Gender,Department,Year,Attendance,Marks,City,Result
+1001,Student_1,23.0,Male,Computer Science,1st Year,88.34,73.0,Nagpur,Fail
+1002,Student_2,20.0,Female,Civil,1st Year,78.85,43.69,Nashik,Pass
+1003,Student_3,21.0,Male,Computer Science,2nd Year,92.31,63.85,Pune,Pass
+1004,Student_4,23.0,Male,Computer Science,1st Year,99.61,64.3,Pune,Pass
+1005,Student_5,19.0,Male,Computer Science,2nd Year,91.9,97.3,Mumbai,Fail
+1006,Student_6,21.0,Male,Mechanical,4th Year,86.27,63.02,Aurangabad,Pass
+1007,Student_7,21.0,Female,Mechanical,2nd Year,78.96,70.71,Aurangabad,Fail
+1008,Student_8,23.0,Female,ECE,4th Year,75.2,69.66,Aurangabad,Pass
+1009,Student_9,18.0,Female,IT,2nd Year,58.8,76.39,Mumbai,Fail
+1010,Student_10,19.0,Male,Civil,3rd Year,72.97,83.64,Aurangabad,Fail
+1011,Student_11,,Female,Civil,3rd Year,95.96,49.63,Nashik,Fail
+1012,Student_12,19.0,Male,Civil,4th Year,91.36,69.37,Mumbai,Pass
+1013,Student_13,19.0,Female,ECE,4th Year,64.72,88.68,Nashik,Pass
+1014,Student_14,21.0,Female,Mechanical,3rd Year,76.0,65.1,Mumbai,Pass
+1015,Student_15,20.0,Female,ECE,4th Year,91.75,53.1,Aurangabad,Pass
+1016,Student_16,19.0,Male,Civil,2nd Year,58.03,77.56,Nashik,Pass
+1017,Student_17,22.0,Female,IT,2nd Year,72.43,88.54,Nashik,Pass
+1018,Student_18,21.0,Female,Computer Science,3rd Year,93.33,39.1,Nashik,Pass
+1019,Student_19,18.0,Male,Mechanical,1st Year,73.18,85.49,Mumbai,Pass
+1020,Student_20,20.0,Female,Mechanical,2nd Year,58.49,88.41,Nagpur,Pass
+1021,Student_21,22.0,Male,ECE,4th Year,79.41,65.0,Aurangabad,Pass
+1022,Student_22,22.0,Female,Mechanical,1st Year,93.78,98.91,Nashik,Fail
+1023,Student_23,18.0,Male,Civil,1st Year,81.56,86.14,Nagpur,Pass
+1024,Student_24,20.0,Male,Civil,2nd Year,65.18,85.29,Aurangabad,Pass
+1025,Student_25,21.0,Female,ECE,2nd Year,72.29,83.61,Aurangabad,Pass
+1026,Student_26,17.0,Male,,1st Year,75.26,44.79,Nashik,Fail
+1027,Student_27,20.0,Male,IT,1st Year,81.07,49.12,Nashik,Pass
+1028,Student_28,18.0,Male,ECE,3rd Year,89.17,65.16,Mumbai,Pass
+1029,Student_29,22.0,Male,IT,4th Year,59.45,52.16,Nagpur,Pass
+1030,Student_30,21.0,Male,Computer Science,3rd Year,95.03,61.99,Nagpur,Pass
+1031,Student_31,20.0,Male,IT,2nd Year,55.55,92.75,Nashik,Pass
+1032,Student_32,17.0,Female,Computer Science,3rd Year,71.65,88.58,Aurangabad,Fail
+1033,Student_33,17.0,Male,Computer Science,3rd Year,56.23,75.95,Nashik,Fail
+1034,Student_34,19.0,Male,IT,3rd Year,72.68,90.78,Aurangabad,Pass
+1035,Student_35,19.0,Female,ECE,3rd Year,78.66,85.95,Aurangabad,Pass
+1036,Student_36,23.0,Female,Civil,4th Year,78.03,62.88,Nashik,Pass
+1037,Student_37,18.0,Female,Civil,4th Year,62.45,48.07,Pune,Pass
+1038,Student_38,20.0,Female,Computer Science,1st Year,84.06,68.42,Nagpur,Pass
+1039,Student_39,20.0,Female,Computer Science,2nd Year,57.02,82.85,Aurangabad,Pass
+1040,Student_40,23.0,Female,ECE,3rd Year,89.29,63.37,Aurangabad,Fail
+1041,Student_41,22.0,Female,Mechanical,1st Year,97.6,78.34,Pune,Fail
+1042,Student_42,22.0,Male,IT,1st Year,70.29,41.13,Mumbai,Pass
+1043,Student_43,23.0,Male,Computer Science,1st Year,78.28,83.62,Pune,Pass
+1044,Student_44,22.0,Female,Civil,4th Year,72.05,87.83,Pune,Pass
+1045,Student_45,19.0,Male,ECE,3rd Year,55.3,80.94,Aurangabad,Pass
+1046,Student_46,20.0,Male,IT,3rd Year,72.36,97.87,Nagpur,Pass
+1047,Student_47,23.0,Male,ECE,2nd Year,90.63,88.73,Pune,Pass
+1048,Student_48,20.0,Female,IT,3rd Year,81.82,93.7,Mumbai,Fail
+1049,Student_49,17.0,Female,IT,3rd Year,59.56,95.68,Nashik,Pass
+1050,Student_50,19.0,Male,Computer Science,1st Year,93.12,87.09,Pune,Pass
+1051,Student_51,21.0,Female,ECE,2nd Year,78.9,78.83,Pune,Pass
+1052,Student_52,19.0,Male,ECE,3rd Year,92.88,35.37,Mumbai,Pass
+1053,Student_53,23.0,Male,Civil,4th Year,81.11,65.28,Nagpur,Pass
+1054,Student_54,21.0,Male,Civil,3rd Year,80.19,72.13,Pune,Pass
+1055,Student_55,17.0,Male,Computer Science,1st Year,59.74,54.76,Pune,Pass
+1056,Student_56,,Female,Computer Science,4th Year,62.53,55.68,Nagpur,Pass
+1057,Student_57,18.0,Female,Mechanical,1st Year,98.74,97.48,Mumbai,Pass
+1058,Student_58,20.0,Female,Civil,3rd Year,65.28,92.96,Pune,Fail
+1059,Student_59,17.0,Male,IT,4th Year,98.99,90.2,Nagpur,Pass
+1060,Student_60,20.0,Female,ECE,2nd Year,78.94,61.39,Pune,Pass
+1061,Student_61,22.0,Male,Computer Science,2nd Year,61.11,35.89,Nashik,Pass
+1062,Student_62,18.0,Female,ECE,4th Year,59.47,40.21,Aurangabad,Pass
+1063,Student_63,18.0,Male,ECE,4th Year,64.4,55.29,Nashik,Pass
+1064,Student_64,17.0,Male,Mechanical,1st Year,96.65,36.02,Pune,Fail
+1065,Student_65,18.0,Male,Civil,4th Year,73.64,36.11,Mumbai,Fail
+1066,Student_66,21.0,Female,Computer Science,1st Year,72.79,94.58,Aurangabad,Pass
+1067,Student_67,18.0,Female,ECE,3rd Year,69.09,80.9,Nashik,Pass
+1068,Student_68,20.0,Female,Computer Science,1st Year,61.62,55.08,Nagpur,Pass
+1069,Student_69,20.0,Female,IT,4th Year,76.95,43.62,Mumbai,Pass
+1070,Student_70,23.0,Male,Mechanical,4th Year,60.85,68.26,Nashik,Pass
+1071,Student_71,20.0,Female,IT,3rd Year,92.6,35.35,Nagpur,Pass
+1072,Student_72,23.0,Female,Computer Science,4th Year,71.67,96.0,Pune,Pass
+1073,Student_73,20.0,Male,Computer Science,4th Year,71.87,61.96,Nagpur,Pass
+1074,Student_74,21.0,Male,Civil,2nd Year,76.33,61.15,Nashik,Pass
+1075,Student_75,23.0,Male,ECE,2nd Year,74.99,60.39,Nashik,Fail
+1076,Student_76,19.0,Female,ECE,3rd Year,99.77,,Pune,Pass
+1077,Student_77,22.0,Male,IT,1st Year,79.54,76.49,Nagpur,Pass
+1078,Student_78,17.0,Male,Mechanical,2nd Year,58.97,82.65,Nagpur,Pass
+1079,Student_79,20.0,Male,ECE,1st Year,82.31,78.95,Pune,Pass
+1080,Student_80,18.0,Female,Civil,4th Year,61.82,44.0,Nagpur,Pass
+1081,Student_81,20.0,Male,IT,2nd Year,56.39,72.62,Pune,Pass
+1082,Student_82,18.0,Female,IT,3rd Year,98.68,72.02,Mumbai,Fail
+1083,Student_83,22.0,Female,Civil,3rd Year,89.81,91.45,Nashik,Pass
+1084,Student_84,22.0,Male,Mechanical,3rd Year,99.1,59.64,Mumbai,Pass
+1085,Student_85,22.0,Male,Civil,2nd Year,76.5,59.15,Aurangabad,Pass
+1086,Student_86,18.0,Female,Mechanical,1st Year,78.95,75.2,Aurangabad,Pass
+1087,Student_87,20.0,Male,Civil,4th Year,62.58,76.15,Aurangabad,Pass
+1088,Student_88,22.0,Male,Civil,1st Year,66.11,65.5,Pune,Fail
+1089,Student_89,21.0,Female,Computer Science,1st Year,92.73,63.8,Nagpur,Pass
+1090,Student_90,23.0,Female,IT,4th Year,71.03,67.12,Mumbai,Pass
+1091,Student_91,18.0,Male,Civil,4th Year,92.21,90.97,,Pass
+1092,Student_92,18.0,Female,Civil,2nd Year,86.91,64.98,Mumbai,Pass
+1093,Student_93,20.0,Male,ECE,2nd Year,62.97,96.1,Mumbai,Fail
+1094,Student_94,18.0,Male,IT,2nd Year,77.84,67.76,Aurangabad,Fail
+1095,Student_95,18.0,Male,ECE,2nd Year,85.48,96.7,Mumbai,Pass
+1096,Student_96,22.0,Female,IT,2nd Year,65.58,89.13,Nagpur,Pass
+1097,Student_97,20.0,Male,ECE,4th Year,92.38,58.56,Aurangabad,Pass
+1098,Student_98,22.0,Male,Civil,1st Year,79.52,91.14,Mumbai,Pass
+1099,Student_99,23.0,Male,Civil,2nd Year,62.44,42.15,Pune,Fail
+1100,Student_100,23.0,Female,Computer Science,2nd Year,81.23,95.13,Nashik,Pass
+1101,Student_101,22.0,Female,ECE,1st Year,99.99,76.06,Nashik,Pass
+1102,Student_102,23.0,Female,Mechanical,2nd Year,61.77,38.54,Nashik,Pass
+1103,Student_103,20.0,Female,Computer Science,1st Year,91.75,76.88,Aurangabad,Fail
+1104,Student_104,17.0,Female,ECE,1st Year,64.33,98.33,Mumbai,Pass
+1105,Student_105,22.0,Male,ECE,4th Year,90.21,39.54,Aurangabad,Pass
+1106,Student_106,21.0,Female,Computer Science,3rd Year,88.06,71.05,Nagpur,Pass
+1107,Student_107,21.0,Female,Civil,4th Year,68.52,83.61,Pune,Fail
+1108,Student_108,18.0,Female,ECE,3rd Year,69.66,87.67,Pune,Pass
+1109,Student_109,23.0,Male,Civil,3rd Year,90.66,61.9,Nashik,Pass
+1110,Student_110,21.0,Female,Computer Science,3rd Year,75.77,48.27,Nashik,Pass
+1111,Student_111,18.0,Female,Civil,2nd Year,87.89,37.75,Nashik,Pass
+1112,Student_112,17.0,Male,IT,4th Year,61.66,72.68,Mumbai,Pass
+1113,Student_113,20.0,Female,Mechanical,3rd Year,93.37,64.44,Nagpur,Fail
+1114,Student_114,20.0,Male,ECE,1st Year,86.99,96.67,Nagpur,Pass
+1115,Student_115,20.0,Male,Mechanical,2nd Year,95.81,38.94,Nagpur,Pass
+1116,Student_116,21.0,Male,Civil,4th Year,60.96,79.55,Nagpur,Pass
+1117,Student_117,17.0,Male,ECE,3rd Year,81.69,36.62,Nashik,Pass
+1118,Student_118,21.0,Male,Civil,1st Year,81.96,46.14,Pune,Fail
+1119,Student_119,23.0,Female,IT,4th Year,70.91,64.48,Nashik,Pass
+1120,Student_120,21.0,Male,Computer Science,4th Year,75.63,64.57,Nagpur,Pass
+1121,Student_121,17.0,Male,ECE,2nd Year,56.71,79.57,Nashik,Pass
+1122,Student_122,17.0,Female,IT,4th Year,88.56,94.16,Nagpur,Pass
+1123,Student_123,23.0,Male,IT,2nd Year,79.72,76.54,Aurangabad,Pass
+1124,Student_124,17.0,Female,ECE,3rd Year,57.6,96.98,Pune,Pass
+1125,Student_125,17.0,Female,Civil,2nd Year,85.63,92.31,Aurangabad,Pass
+1126,Student_126,20.0,Female,IT,1st Year,76.01,72.99,Mumbai,Pass
+1127,Student_127,23.0,Male,Mechanical,2nd Year,56.55,89.2,Nashik,Pass
+1128,Student_128,19.0,Male,IT,1st Year,98.63,76.77,Mumbai,Pass
+1129,Student_129,19.0,Male,Civil,2nd Year,97.71,40.11,Nashik,Fail
+1130,Student_130,17.0,Female,Civil,4th Year,78.08,83.14,Aurangabad,Pass
+1131,Student_131,19.0,Male,Mechanical,3rd Year,59.22,41.17,Nagpur,Pass
+1132,Student_132,19.0,Male,IT,1st Year,88.96,73.62,Nagpur,Pass
+1133,Student_133,17.0,Male,Civil,2nd Year,77.14,80.67,Nashik,Pass
+1134,Student_134,19.0,Female,ECE,2nd Year,68.61,39.32,Nagpur,Pass
+1135,Student_135,21.0,Female,Computer Science,2nd Year,77.11,50.0,Aurangabad,Pass
+1136,Student_136,18.0,Male,Computer Science,4th Year,78.51,94.52,Nagpur,Pass
+1137,Student_137,23.0,Male,Computer Science,4th Year,80.32,75.06,Aurangabad,Fail
+1138,Student_138,18.0,Male,IT,1st Year,74.86,51.01,Mumbai,Pass
+1139,Student_139,17.0,Male,Mechanical,1st Year,82.26,79.89,Aurangabad,Pass
+1140,Student_140,20.0,Female,Civil,4th Year,96.34,73.79,Pune,Pass
+1141,Student_141,23.0,Female,ECE,1st Year,71.3,67.6,Pune,Pass
+1142,Student_142,17.0,Female,ECE,3rd Year,87.66,98.45,Pune,Pass
+1143,Student_143,20.0,Female,IT,3rd Year,95.25,79.42,Nashik,Pass
+1144,Student_144,18.0,Male,Computer Science,4th Year,75.52,59.4,Nashik,Pass
+1145,Student_145,17.0,Male,IT,1st Year,74.96,87.0,Nashik,Fail
+1146,Student_146,23.0,Male,Mechanical,2nd Year,82.1,92.5,Aurangabad,Pass
+1147,Student_147,23.0,Female,Mechanical,3rd Year,81.61,43.14,Nashik,Pass
+1148,Student_148,22.0,Male,Civil,4th Year,91.3,48.04,Mumbai,Fail
+1149,Student_149,21.0,Female,Civil,1st Year,76.44,49.05,Pune,Pass
+1150,Student_150,19.0,Female,Mechanical,4th Year,99.83,79.93,Aurangabad,Pass
+1151,Student_151,20.0,Male,,2nd Year,57.68,74.2,Pune,Fail
+1152,Student_152,22.0,Male,Mechanical,3rd Year,55.14,75.23,Nashik,Pass
+1153,Student_153,19.0,Male,IT,4th Year,83.81,96.15,Aurangabad,Fail
+1154,Student_154,19.0,Female,Mechanical,4th Year,68.43,85.43,Nagpur,Pass
+1155,Student_155,17.0,Male,ECE,4th Year,65.82,43.32,Mumbai,Pass
+1156,Student_156,19.0,Female,Computer Science,2nd Year,69.04,57.59,Nashik,Fail
+1157,Student_157,21.0,Male,Mechanical,4th Year,66.52,63.3,Nashik,Pass
+1158,Student_158,23.0,Female,Computer Science,2nd Year,56.39,60.74,Mumbai,Pass
+1159,Student_159,22.0,Female,IT,2nd Year,98.72,78.51,Mumbai,Pass
+1160,Student_160,19.0,Male,Computer Science,2nd Year,64.93,92.97,Nagpur,Fail
+1161,Student_161,17.0,Female,IT,3rd Year,88.03,54.89,Nashik,Fail
+1162,Student_162,21.0,Female,ECE,3rd Year,89.32,70.87,Nashik,Pass
+1163,Student_163,18.0,Male,IT,4th Year,96.82,86.31,Pune,Pass
+1164,Student_164,23.0,Female,IT,4th Year,56.37,62.05,Aurangabad,Fail
+1165,Student_165,23.0,Male,Civil,3rd Year,94.24,45.93,Aurangabad,Pass
+1166,Student_166,22.0,Female,Mechanical,1st Year,78.73,65.87,Pune,Pass
+1167,Student_167,23.0,Male,Mechanical,3rd Year,83.46,38.59,Aurangabad,Pass
+1168,Student_168,19.0,Male,ECE,2nd Year,84.0,96.25,Mumbai,Pass
+1169,Student_169,17.0,Female,ECE,3rd Year,91.89,39.86,Aurangabad,Pass
+1170,Student_170,23.0,Female,Mechanical,2nd Year,70.0,63.5,Aurangabad,Pass
+1171,Student_171,23.0,Female,Civil,4th Year,87.99,69.44,Pune,Pass
+1172,Student_172,18.0,Female,Mechanical,1st Year,78.79,99.04,Nagpur,Fail
+1173,Student_173,18.0,Female,Civil,4th Year,90.7,45.79,Aurangabad,Pass
+1174,Student_174,20.0,Male,ECE,2nd Year,99.57,42.44,Aurangabad,Pass
+1175,Student_175,21.0,Female,Computer Science,2nd Year,64.03,35.57,Nagpur,Pass
+1176,Student_176,19.0,Male,ECE,2nd Year,99.76,45.11,Pune,Pass
+1177,Student_177,23.0,Male,ECE,1st Year,59.04,48.47,Nagpur,Pass
+1178,Student_178,23.0,Female,IT,3rd Year,55.1,75.99,Pune,Pass
+1179,Student_179,17.0,Male,IT,4th Year,56.99,49.28,Mumbai,Pass
+1180,Student_180,20.0,Male,IT,4th Year,70.38,36.33,Pune,Fail
+1181,Student_181,21.0,Male,IT,3rd Year,83.48,88.73,Mumbai,Pass
+1182,Student_182,20.0,Male,Civil,4th Year,58.11,58.76,Mumbai,Pass
+1183,Student_183,22.0,Female,Mechanical,1st Year,55.25,57.99,Pune,Pass
+1184,Student_184,21.0,Male,Computer Science,4th Year,97.17,54.66,Nashik,Fail
+1185,Student_185,23.0,Female,ECE,2nd Year,91.99,98.4,Pune,Pass
+1186,Student_186,23.0,Female,Civil,3rd Year,91.41,46.06,Aurangabad,Pass
+1187,Student_187,21.0,Male,Computer Science,1st Year,94.8,93.39,Aurangabad,Pass
+1188,Student_188,23.0,Female,Civil,3rd Year,86.5,85.49,Nashik,Pass
+1189,Student_189,19.0,Female,Civil,1st Year,59.7,39.97,Mumbai,Pass
+1190,Student_190,21.0,Female,ECE,2nd Year,72.96,99.14,Nashik,Pass
+1191,Student_191,20.0,Male,Mechanical,3rd Year,87.54,52.64,Aurangabad,Fail
+1192,Student_192,21.0,Female,IT,4th Year,67.62,41.41,Nashik,Fail
+1193,Student_193,23.0,Female,Mechanical,1st Year,85.93,88.91,Pune,Pass
+1194,Student_194,19.0,Female,ECE,3rd Year,56.1,80.93,Nashik,Fail
+1195,Student_195,19.0,Male,ECE,4th Year,68.78,75.12,Mumbai,Pass
+1196,Student_196,22.0,Female,ECE,3rd Year,79.71,45.14,Pune,Pass
+1197,Student_197,20.0,Male,Computer Science,3rd Year,83.44,66.1,Nagpur,Pass
+1198,Student_198,18.0,Male,Mechanical,3rd Year,80.97,85.74,Aurangabad,Pass
+1199,Student_199,18.0,Male,Mechanical,1st Year,86.4,54.74,Aurangabad,Fail
+1200,Student_200,21.0,Male,Civil,4th Year,55.27,55.26,Nashik,Pass
+1201,Student_201,,Male,Civil,2nd Year,59.54,35.2,Pune,Pass
+1202,Student_202,17.0,Male,Civil,1st Year,94.1,46.33,Nagpur,Pass
+1203,Student_203,21.0,Female,ECE,1st Year,85.68,91.9,Pune,Pass
+1204,Student_204,22.0,Male,Mechanical,1st Year,60.08,63.71,Aurangabad,Pass
+1205,Student_205,20.0,Female,ECE,2nd Year,92.89,98.98,Pune,Pass
+1206,Student_206,20.0,Female,Computer Science,4th Year,65.9,60.72,Nagpur,Pass
+1207,Student_207,20.0,Male,Civil,4th Year,76.52,81.49,Nashik,Fail
+1208,Student_208,20.0,Female,ECE,4th Year,61.53,53.32,Mumbai,Fail
+1209,Student_209,20.0,Female,ECE,3rd Year,86.95,58.65,Pune,Pass
+1210,Student_210,22.0,Female,Computer Science,3rd Year,85.01,47.4,Mumbai,Fail
+1211,Student_211,22.0,Female,IT,3rd Year,64.5,57.56,Aurangabad,Pass
+1212,Student_212,19.0,Male,Mechanical,2nd Year,93.85,70.57,Nashik,Pass
+1213,Student_213,18.0,Female,IT,3rd Year,73.06,99.47,Nashik,Pass
+1214,Student_214,23.0,Male,Civil,2nd Year,68.16,78.17,Pune,Pass
+1215,Student_215,20.0,Female,ECE,4th Year,61.85,47.95,Nashik,Pass
+1216,Student_216,17.0,Female,Computer Science,3rd Year,66.98,37.92,Pune,Pass
+1217,Student_217,23.0,Male,Computer Science,3rd Year,55.99,43.21,Pune,Pass
+1218,Student_218,22.0,Female,Mechanical,1st Year,81.25,71.57,Mumbai,Pass
+1219,Student_219,17.0,Female,IT,2nd Year,92.9,84.74,Nashik,Pass
+1220,Student_220,17.0,Female,Mechanical,4th Year,79.7,96.13,Pune,Pass
+1221,Student_221,17.0,Male,ECE,1st Year,64.87,36.03,Mumbai,Pass
+1222,Student_222,19.0,Female,Mechanical,1st Year,56.52,68.98,Nagpur,Pass
+1223,Student_223,22.0,Male,Computer Science,4th Year,64.66,65.61,Mumbai,Pass
+1224,Student_224,17.0,Female,Computer Science,1st Year,73.73,77.64,Mumbai,Pass
+1225,Student_225,20.0,Male,Civil,2nd Year,89.18,71.37,Pune,Pass
+1226,Student_226,21.0,Male,Civil,2nd Year,63.45,79.66,Aurangabad,Fail
+1227,Student_227,17.0,Female,ECE,3rd Year,87.39,77.78,Aurangabad,Pass
+1228,Student_228,19.0,Female,IT,1st Year,94.01,42.61,Aurangabad,Pass
+1229,Student_229,23.0,Male,Mechanical,3rd Year,75.43,86.98,Mumbai,Pass
+1230,Student_230,22.0,Male,ECE,1st Year,91.96,43.01,Pune,Fail
+1231,Student_231,19.0,Female,Civil,2nd Year,79.96,80.4,Nashik,Pass
+1232,Student_232,17.0,Male,Mechanical,2nd Year,83.67,62.05,Mumbai,Pass
+1233,Student_233,22.0,Female,Civil,2nd Year,78.68,68.4,Mumbai,Fail
+1234,Student_234,21.0,Female,Mechanical,1st Year,75.84,93.71,Pune,Pass
+1235,Student_235,17.0,Female,IT,2nd Year,65.56,92.84,Nagpur,Pass
+1236,Student_236,19.0,Female,ECE,1st Year,68.64,88.16,Mumbai,Pass
+1237,Student_237,18.0,Male,Mechanical,3rd Year,68.05,68.16,Nagpur,Pass
+1238,Student_238,20.0,Female,Computer Science,1st Year,80.35,82.86,Nagpur,Pass
+1239,Student_239,23.0,Male,Computer Science,3rd Year,60.4,68.34,Aurangabad,Pass
+1240,Student_240,19.0,Female,Mechanical,1st Year,96.26,91.52,Pune,Pass
+1241,Student_241,22.0,Male,Mechanical,3rd Year,87.43,61.18,Nagpur,Pass
+1242,Student_242,17.0,Female,Mechanical,2nd Year,73.07,98.07,Pune,Pass
+1243,Student_243,20.0,Male,Computer Science,3rd Year,62.14,95.6,Aurangabad,Pass
+1244,Student_244,17.0,Male,Computer Science,2nd Year,94.69,83.2,Pune,Pass
+1245,Student_245,22.0,Female,Mechanical,2nd Year,92.07,53.16,Mumbai,Fail
+1246,Student_246,17.0,Female,Civil,3rd Year,87.48,43.56,Nagpur,Pass
+1247,Student_247,18.0,Female,Civil,1st Year,67.22,90.56,Pune,Fail
+1248,Student_248,20.0,Female,IT,1st Year,73.11,45.74,Nashik,Pass
+1249,Student_249,20.0,Male,ECE,4th Year,59.62,90.53,Pune,Pass
+1250,Student_250,22.0,Female,Civil,1st Year,63.51,66.9,Nagpur,Pass
+1251,Student_251,23.0,Male,Computer Science,4th Year,90.24,61.43,Aurangabad,Pass
+1252,Student_252,18.0,Male,Civil,1st Year,87.18,93.71,Aurangabad,Pass
+1253,Student_253,19.0,Female,IT,1st Year,81.71,74.25,Nagpur,Pass
+1254,Student_254,17.0,Male,IT,2nd Year,95.31,72.48,Mumbai,Fail
+1255,Student_255,21.0,Male,ECE,4th Year,81.25,71.32,Mumbai,Pass
+1256,Student_256,17.0,Male,Civil,1st Year,76.01,59.13,Aurangabad,Pass
+1257,Student_257,17.0,Male,Computer Science,4th Year,70.32,86.07,Aurangabad,Pass
+1258,Student_258,19.0,Female,Computer Science,2nd Year,97.32,51.43,Nagpur,Fail
+1259,Student_259,17.0,Female,Mechanical,2nd Year,58.72,96.03,Mumbai,Pass
+1260,Student_260,18.0,Female,Computer Science,4th Year,96.89,93.11,Aurangabad,Pass
+1261,Student_261,18.0,Female,ECE,2nd Year,92.2,56.94,Mumbai,Pass
+1262,Student_262,20.0,Male,ECE,3rd Year,60.85,82.42,Aurangabad,Pass
+1263,Student_263,22.0,Male,Computer Science,3rd Year,80.42,72.26,Pune,Pass
+1264,Student_264,23.0,Female,Computer Science,2nd Year,93.99,56.95,Nashik,Pass
+1265,Student_265,21.0,Female,Mechanical,3rd Year,80.73,99.25,Pune,Pass
+1266,Student_266,17.0,Female,Computer Science,1st Year,95.82,36.64,Aurangabad,Pass
+1267,Student_267,17.0,Male,Mechanical,4th Year,97.43,51.42,Nashik,Pass
+1268,Student_268,19.0,Female,Mechanical,1st Year,74.01,68.8,Nashik,Pass
+1269,Student_269,22.0,Female,Computer Science,4th Year,71.98,68.93,Aurangabad,Fail
+1270,Student_270,18.0,Female,IT,2nd Year,97.13,73.28,Aurangabad,Pass
+1271,Student_271,21.0,Male,IT,1st Year,85.38,83.86,Mumbai,Pass
+1272,Student_272,20.0,Male,Mechanical,2nd Year,60.22,75.53,Aurangabad,Pass
+1273,Student_273,18.0,Male,Computer Science,2nd Year,56.9,74.02,Nagpur,Pass
+1274,Student_274,22.0,Male,IT,4th Year,80.41,38.48,Aurangabad,Fail
+1275,Student_275,23.0,Male,Computer Science,4th Year,96.86,59.47,Nagpur,Pass
+1276,Student_276,20.0,Male,Computer Science,4th Year,92.99,50.08,Aurangabad,Pass
+1277,Student_277,23.0,Male,Computer Science,1st Year,85.41,52.25,Mumbai,Pass
+1278,Student_278,19.0,Male,Civil,3rd Year,61.26,71.03,Nagpur,Fail
+1279,Student_279,19.0,Female,Computer Science,4th Year,66.44,47.97,Pune,Pass
+1280,Student_280,17.0,Female,Civil,4th Year,94.4,54.11,Nagpur,Pass
+1281,Student_281,23.0,Male,Mechanical,1st Year,63.23,50.41,Mumbai,Fail
+1282,Student_282,22.0,Male,IT,4th Year,67.53,96.65,Nagpur,Pass
+1283,Student_283,21.0,Female,IT,1st Year,60.83,96.4,Aurangabad,Pass
+1284,Student_284,20.0,Male,IT,2nd Year,85.42,74.65,Aurangabad,Pass
+1285,Student_285,18.0,Male,IT,4th Year,97.48,95.09,Mumbai,Pass
+1286,Student_286,22.0,Male,IT,4th Year,67.1,86.08,Nashik,Pass
+1287,Student_287,22.0,Female,IT,2nd Year,76.39,73.35,Aurangabad,Pass
+1288,Student_288,19.0,Female,IT,2nd Year,83.55,35.42,Pune,Fail
+1289,Student_289,23.0,Female,Mechanical,2nd Year,99.98,85.21,Mumbai,Pass
+1290,Student_290,17.0,Female,Computer Science,4th Year,59.72,80.66,Nagpur,Pass
+1291,Student_291,17.0,Female,ECE,3rd Year,77.44,74.99,Nagpur,Pass
+1292,Student_292,20.0,Male,Civil,3rd Year,72.33,84.43,Pune,Pass
+1293,Student_293,19.0,Female,ECE,3rd Year,93.96,68.34,Aurangabad,Pass
+1294,Student_294,22.0,Male,ECE,4th Year,76.42,80.77,Mumbai,Pass
+1295,Student_295,21.0,Male,Computer Science,2nd Year,59.99,95.79,Pune,Pass
+1296,Student_296,19.0,Female,Computer Science,4th Year,83.55,59.43,Aurangabad,Pass
+1297,Student_297,20.0,Female,Computer Science,2nd Year,89.69,81.03,Mumbai,Fail
+1298,Student_298,20.0,Male,IT,4th Year,55.13,65.92,Nagpur,Fail
+1299,Student_299,19.0,Male,Mechanical,4th Year,93.65,78.84,Mumbai,Pass
+1300,Student_300,20.0,Male,IT,2nd Year,63.37,84.59,Nashik,Pass
+1301,Student_301,19.0,Female,Mechanical,3rd Year,79.84,,Mumbai,Pass
+1302,Student_302,18.0,Female,Mechanical,2nd Year,73.71,77.03,Nashik,Pass
+1303,Student_303,19.0,Female,ECE,1st Year,87.38,49.74,Mumbai,Pass
+1304,Student_304,23.0,Female,ECE,1st Year,71.7,78.55,Nashik,Pass
+1305,Student_305,19.0,Female,Mechanical,2nd Year,94.14,65.44,Nagpur,Pass
+1306,Student_306,20.0,Male,Mechanical,4th Year,87.87,85.28,Aurangabad,Pass
+1307,Student_307,23.0,Female,IT,1st Year,84.15,43.02,Nashik,Pass
+1308,Student_308,20.0,Male,IT,1st Year,90.83,75.71,Nashik,Pass
+1309,Student_309,17.0,Male,ECE,4th Year,88.93,53.1,Nagpur,Pass
+1310,Student_310,17.0,Male,Computer Science,4th Year,56.62,90.44,Nashik,Pass
+1311,Student_311,23.0,Female,Mechanical,3rd Year,72.76,95.34,Pune,Pass
+1312,Student_312,18.0,Female,IT,4th Year,96.89,99.77,Nagpur,Pass
+1313,Student_313,17.0,Female,ECE,2nd Year,60.66,86.74,Pune,Fail
+1314,Student_314,19.0,Male,IT,2nd Year,88.17,83.99,Nagpur,Pass
+1315,Student_315,20.0,Male,Mechanical,3rd Year,98.86,49.01,Nashik,Pass
+1316,Student_316,17.0,Male,Mechanical,1st Year,57.35,56.84,Pune,Pass
+1317,Student_317,17.0,Male,Civil,1st Year,85.7,65.27,Nashik,Fail
+1318,Student_318,18.0,Male,Computer Science,4th Year,76.07,85.27,Nagpur,Pass
+1319,Student_319,23.0,Male,Civil,2nd Year,81.06,94.47,Nashik,Pass
+1320,Student_320,23.0,Female,ECE,1st Year,58.84,47.29,Pune,Fail
+1321,Student_321,22.0,Female,IT,3rd Year,56.94,94.95,Pune,Fail
+1322,Student_322,18.0,Female,ECE,3rd Year,85.01,80.22,Nashik,Fail
+1323,Student_323,19.0,Female,Mechanical,2nd Year,92.05,74.7,Mumbai,Fail
+1324,Student_324,23.0,Male,Civil,3rd Year,90.19,47.99,Nagpur,Fail
+1325,Student_325,20.0,Male,Civil,3rd Year,79.47,38.61,Nagpur,Pass
+1326,Student_326,18.0,Female,Civil,2nd Year,59.49,71.95,Nashik,Pass
+1327,Student_327,17.0,Male,ECE,4th Year,85.96,77.35,Mumbai,Pass
+1328,Student_328,20.0,Female,Mechanical,4th Year,65.88,48.7,Pune,Pass
+1329,Student_329,20.0,Female,IT,3rd Year,96.0,71.17,Aurangabad,Pass
+1330,Student_330,17.0,Female,IT,4th Year,92.72,90.67,Aurangabad,Pass
+1331,Student_331,18.0,Male,ECE,4th Year,86.92,89.28,Nashik,Pass
+1332,Student_332,17.0,Female,Civil,3rd Year,97.7,95.28,Mumbai,Pass
+1333,Student_333,22.0,Female,Computer Science,4th Year,56.41,58.78,Mumbai,Pass
+1334,Student_334,20.0,Female,ECE,3rd Year,88.13,55.67,Nagpur,Pass
+1335,Student_335,21.0,Male,ECE,1st Year,69.86,83.71,Pune,Pass
+1336,Student_336,21.0,Male,Mechanical,2nd Year,95.77,63.02,Mumbai,Pass
+1337,Student_337,19.0,Female,IT,2nd Year,67.0,40.69,Aurangabad,Pass
+1338,Student_338,23.0,Male,ECE,4th Year,87.62,53.38,Pune,Pass
+1339,Student_339,17.0,Male,ECE,4th Year,94.49,62.21,Pune,Pass
+1340,Student_340,17.0,Male,Civil,4th Year,56.87,54.01,Nashik,Pass
+1341,Student_341,19.0,Male,Civil,2nd Year,72.89,56.59,Mumbai,Pass
+1342,Student_342,19.0,Male,Computer Science,1st Year,89.3,54.1,Nashik,Pass
+1343,Student_343,19.0,Male,Mechanical,1st Year,75.47,37.7,Mumbai,Pass
+1344,Student_344,20.0,Male,Computer Science,2nd Year,67.03,76.41,Nagpur,Fail
+1345,Student_345,22.0,Male,Civil,1st Year,64.89,73.82,Nashik,Pass
+1346,Student_346,17.0,Male,IT,2nd Year,60.92,77.47,Nashik,Pass
+1347,Student_347,20.0,Male,Civil,1st Year,93.57,47.5,Aurangabad,Pass
+1348,Student_348,19.0,Female,Mechanical,3rd Year,80.89,54.22,Nashik,Pass
+1349,Student_349,17.0,Female,Civil,3rd Year,58.44,75.28,Mumbai,Pass
+1350,Student_350,20.0,Male,Mechanical,2nd Year,72.22,73.98,Aurangabad,Pass
+1351,Student_351,22.0,Female,Mechanical,1st Year,71.55,67.91,Nashik,Pass
+1352,Student_352,20.0,Female,Mechanical,4th Year,63.18,57.78,Nashik,Pass
+1353,Student_353,22.0,Male,Mechanical,1st Year,74.6,94.34,Nagpur,Pass
+1354,Student_354,19.0,Male,Mechanical,3rd Year,69.94,57.09,Nashik,Pass
+1355,Student_355,22.0,Male,IT,3rd Year,70.38,64.62,Pune,Pass
+1356,Student_356,17.0,Female,Computer Science,1st Year,88.26,79.08,Aurangabad,Fail
+1357,Student_357,19.0,Female,ECE,1st Year,65.05,70.3,Pune,Pass
+1358,Student_358,17.0,Male,Computer Science,4th Year,83.88,57.55,Aurangabad,Pass
+1359,Student_359,21.0,Male,Mechanical,4th Year,80.68,63.32,Nagpur,Pass
+1360,Student_360,18.0,Male,IT,1st Year,80.56,86.64,Nashik,Pass
+1361,Student_361,22.0,Female,Civil,1st Year,84.84,53.08,Nashik,Pass
+1362,Student_362,18.0,Female,IT,1st Year,79.68,44.25,Nashik,Pass
+1363,Student_363,18.0,Female,Mechanical,1st Year,94.57,55.36,Aurangabad,Fail
+1364,Student_364,22.0,Female,IT,2nd Year,85.4,90.22,Nashik,Pass
+1365,Student_365,19.0,Male,IT,1st Year,79.61,40.78,Pune,Fail
+1366,Student_366,21.0,Male,Mechanical,4th Year,92.34,99.46,Nashik,Pass
+1367,Student_367,17.0,Male,IT,3rd Year,82.28,70.17,Nagpur,Fail
+1368,Student_368,20.0,Male,ECE,2nd Year,68.1,99.01,Pune,Pass
+1369,Student_369,17.0,Female,ECE,1st Year,64.32,96.03,Nashik,Pass
+1370,Student_370,20.0,Female,IT,3rd Year,61.85,64.43,Nashik,Pass
+1371,Student_371,17.0,Male,Civil,2nd Year,95.48,47.9,Mumbai,Pass
+1372,Student_372,22.0,Male,Mechanical,3rd Year,86.96,45.72,Aurangabad,Fail
+1373,Student_373,21.0,Female,ECE,1st Year,97.18,50.6,Pune,Pass
+1374,Student_374,20.0,Male,Civil,1st Year,82.15,81.16,Mumbai,Pass
+1375,Student_375,23.0,Female,IT,4th Year,76.3,52.74,Nagpur,Pass
+1376,Student_376,19.0,Male,Civil,1st Year,57.69,57.19,Aurangabad,Pass
+1377,Student_377,17.0,Male,Computer Science,1st Year,85.22,64.17,Pune,Pass
+1378,Student_378,17.0,Male,ECE,2nd Year,81.2,94.36,Nashik,Pass
+1379,Student_379,20.0,Male,IT,4th Year,99.56,47.31,Pune,Pass
+1380,Student_380,19.0,Male,Mechanical,2nd Year,65.76,35.33,Nashik,Fail
+1381,Student_381,19.0,Male,IT,3rd Year,78.88,38.91,Aurangabad,Pass
+1382,Student_382,22.0,Male,Mechanical,1st Year,84.29,93.81,Nashik,Pass
+1383,Student_383,23.0,Female,IT,3rd Year,84.01,77.09,Nagpur,Pass
+1384,Student_384,22.0,Female,Civil,2nd Year,80.26,52.75,Nashik,Pass
+1385,Student_385,22.0,Female,Civil,1st Year,89.96,46.52,Nagpur,Pass
+1386,Student_386,22.0,Female,Civil,1st Year,64.22,54.13,Aurangabad,Pass
+1387,Student_387,22.0,Female,Computer Science,2nd Year,87.65,42.46,Aurangabad,Pass
+1388,Student_388,22.0,Male,Mechanical,2nd Year,82.89,96.2,Pune,Pass
+1389,Student_389,21.0,Male,Civil,2nd Year,95.32,85.97,Nagpur,Fail
+1390,Student_390,19.0,Female,Computer Science,2nd Year,93.12,65.06,Nagpur,Pass
+1391,Student_391,22.0,Male,Mechanical,2nd Year,69.18,91.22,Mumbai,Pass
+1392,Student_392,19.0,Female,IT,1st Year,67.43,51.21,Mumbai,Fail
+1393,Student_393,19.0,Female,Computer Science,2nd Year,99.17,81.61,Mumbai,Fail
+1394,Student_394,18.0,Male,ECE,1st Year,78.73,90.65,Nashik,Pass
+1395,Student_395,21.0,Male,Computer Science,1st Year,95.79,58.19,Mumbai,Pass
+1396,Student_396,22.0,Male,Computer Science,2nd Year,62.37,84.24,Nagpur,Pass
+1397,Student_397,17.0,Female,Mechanical,2nd Year,83.93,54.18,Nashik,Fail
+1398,Student_398,20.0,Male,IT,4th Year,91.44,54.43,Aurangabad,Fail
+1399,Student_399,23.0,Female,ECE,1st Year,97.63,41.96,Pune,Pass
+1400,Student_400,17.0,Female,Civil,2nd Year,70.18,63.6,Mumbai,Pass
+1401,Student_401,21.0,Female,Civil,2nd Year,87.62,82.43,Aurangabad,Pass
+1402,Student_402,20.0,Male,Computer Science,2nd Year,79.25,96.11,Nagpur,Pass
+1403,Student_403,21.0,Male,Mechanical,4th Year,57.73,74.25,Pune,Pass
+1404,Student_404,19.0,Female,Mechanical,4th Year,86.05,91.1,Aurangabad,Pass
+1405,Student_405,20.0,Male,Civil,3rd Year,86.05,88.46,Pune,Fail
+1406,Student_406,19.0,Male,ECE,1st Year,96.88,46.27,Mumbai,Pass
+1407,Student_407,17.0,Male,IT,3rd Year,77.38,66.58,Nagpur,Pass
+1408,Student_408,17.0,Female,ECE,2nd Year,65.36,42.6,Pune,Pass
+1409,Student_409,20.0,Female,IT,4th Year,57.01,79.34,Aurangabad,Pass
+1410,Student_410,20.0,Male,Civil,4th Year,73.7,96.74,Mumbai,Pass
+1411,Student_411,22.0,Female,IT,3rd Year,68.59,43.91,Mumbai,Pass
+1412,Student_412,21.0,Male,Mechanical,4th Year,89.25,82.7,Aurangabad,Pass
+1413,Student_413,22.0,Male,Computer Science,2nd Year,70.94,76.1,Aurangabad,Fail
+1414,Student_414,21.0,Male,Computer Science,4th Year,97.71,72.93,Pune,Pass
+1415,Student_415,22.0,Male,Civil,3rd Year,98.3,60.36,Nashik,Pass
+1416,Student_416,19.0,Female,Mechanical,2nd Year,82.94,58.08,Mumbai,Pass
+1417,Student_417,20.0,Female,ECE,3rd Year,96.79,37.94,Pune,Pass
+1418,Student_418,17.0,Female,Mechanical,4th Year,89.24,49.16,Aurangabad,Pass
+1419,Student_419,21.0,Male,Computer Science,3rd Year,79.61,35.99,Pune,Pass
+1420,Student_420,21.0,Male,Computer Science,3rd Year,63.11,72.79,Aurangabad,Pass
+1421,Student_421,17.0,Male,Mechanical,1st Year,75.64,41.88,Nagpur,Pass
+1422,Student_422,22.0,Female,Mechanical,4th Year,80.24,91.75,Aurangabad,Pass
+1423,Student_423,21.0,Male,Computer Science,4th Year,93.88,69.0,Aurangabad,Pass
+1424,Student_424,23.0,Female,ECE,3rd Year,76.66,80.48,Aurangabad,Fail
+1425,Student_425,19.0,Female,Civil,1st Year,95.4,61.71,Nashik,Fail
+1426,Student_426,20.0,Female,Civil,4th Year,85.35,71.44,Aurangabad,Pass
+1427,Student_427,17.0,Female,Mechanical,2nd Year,61.16,96.27,Mumbai,Pass
+1428,Student_428,20.0,Female,Civil,3rd Year,99.77,40.38,Mumbai,Fail
+1429,Student_429,23.0,Female,Computer Science,4th Year,78.73,51.51,Pune,Pass
+1430,Student_430,21.0,Male,Computer Science,2nd Year,72.63,85.7,Nashik,Pass
+1431,Student_431,21.0,Male,Mechanical,4th Year,84.66,41.42,Pune,Fail
+1432,Student_432,23.0,Female,Mechanical,2nd Year,59.9,39.92,Mumbai,Pass
+1433,Student_433,17.0,Female,Mechanical,3rd Year,83.64,58.5,Mumbai,Fail
+1434,Student_434,19.0,Male,ECE,4th Year,77.42,40.99,Nagpur,Fail
+1435,Student_435,18.0,Female,Civil,4th Year,73.3,73.03,Aurangabad,Pass
+1436,Student_436,17.0,Female,Mechanical,1st Year,97.89,49.71,Mumbai,Fail
+1437,Student_437,18.0,Male,IT,3rd Year,78.51,93.22,Pune,Pass
+1438,Student_438,23.0,Female,IT,2nd Year,64.86,85.93,Pune,Pass
+1439,Student_439,22.0,Female,Computer Science,4th Year,75.65,80.48,Aurangabad,Pass
+1440,Student_440,18.0,Female,Civil,4th Year,96.37,75.1,Aurangabad,Pass
+1441,Student_441,19.0,Male,Mechanical,2nd Year,62.92,91.13,Nagpur,Pass
+1442,Student_442,22.0,Male,IT,3rd Year,64.63,49.5,Nashik,Pass
+1443,Student_443,18.0,Male,Civil,1st Year,55.59,91.75,Pune,Pass
+1444,Student_444,23.0,Female,Computer Science,1st Year,55.64,86.32,Aurangabad,Pass
+1445,Student_445,22.0,Female,ECE,4th Year,92.32,83.63,Pune,Pass
+1446,Student_446,23.0,Male,Civil,2nd Year,87.95,71.48,Aurangabad,Pass
+1447,Student_447,18.0,Female,Civil,4th Year,70.98,51.01,Mumbai,Fail
+1448,Student_448,23.0,Female,ECE,2nd Year,86.42,62.53,Pune,Fail
+1449,Student_449,19.0,Female,Civil,1st Year,72.78,86.58,Mumbai,Pass
+1450,Student_450,18.0,Female,Computer Science,3rd Year,97.88,37.07,Pune,Fail
+1451,Student_451,18.0,Female,Computer Science,2nd Year,98.52,85.83,,Pass
+1452,Student_452,18.0,Male,ECE,1st Year,72.68,50.6,Nagpur,Pass
+1453,Student_453,17.0,Female,Mechanical,4th Year,93.44,44.38,Mumbai,Pass
+1454,Student_454,17.0,Male,IT,2nd Year,89.79,42.52,Aurangabad,Pass
+1455,Student_455,17.0,Female,Mechanical,3rd Year,68.95,36.77,Nashik,Fail
+1456,Student_456,19.0,Male,Civil,4th Year,65.44,69.03,Pune,Pass
+1457,Student_457,22.0,Female,IT,4th Year,75.62,49.19,Mumbai,Pass
+1458,Student_458,23.0,Male,ECE,1st Year,90.16,99.31,Pune,Pass
+1459,Student_459,21.0,Female,ECE,2nd Year,98.21,72.34,Pune,Pass
+1460,Student_460,18.0,Male,IT,4th Year,89.36,43.96,Pune,Pass
+1461,Student_461,23.0,Female,Computer Science,3rd Year,93.48,79.77,Nagpur,Pass
+1462,Student_462,18.0,Male,IT,2nd Year,82.14,93.35,Nagpur,Pass
+1463,Student_463,19.0,Female,Civil,3rd Year,92.59,83.44,Aurangabad,Pass
+1464,Student_464,18.0,Male,Computer Science,4th Year,90.3,39.97,Mumbai,Pass
+1465,Student_465,17.0,Male,ECE,3rd Year,71.96,93.23,Nashik,Pass
+1466,Student_466,21.0,Female,IT,1st Year,79.84,86.61,Nashik,Pass
+1467,Student_467,20.0,Female,Mechanical,3rd Year,91.21,45.29,Nashik,Pass
+1468,Student_468,18.0,Male,Mechanical,2nd Year,57.07,38.37,Pune,Pass
+1469,Student_469,23.0,Female,Civil,3rd Year,91.36,71.23,Nagpur,Pass
+1470,Student_470,17.0,Male,Mechanical,3rd Year,63.0,45.14,Mumbai,Pass
+1471,Student_471,20.0,Male,IT,1st Year,78.16,89.25,Pune,Pass
+1472,Student_472,21.0,Male,IT,3rd Year,91.37,58.29,Nagpur,Fail
+1473,Student_473,20.0,Female,Mechanical,3rd Year,66.42,94.34,Nagpur,Pass
+1474,Student_474,17.0,Male,IT,4th Year,66.06,71.77,Mumbai,Pass
+1475,Student_475,22.0,Male,Civil,4th Year,73.12,46.87,Mumbai,Fail
+1476,Student_476,22.0,Female,Computer Science,2nd Year,95.26,44.07,Mumbai,Pass
+1477,Student_477,20.0,Female,Civil,4th Year,55.02,72.47,Pune,Pass
+1478,Student_478,19.0,Female,Civil,4th Year,95.56,84.52,Aurangabad,Pass
+1479,Student_479,23.0,Female,IT,4th Year,61.92,85.8,Mumbai,Pass
+1480,Student_480,23.0,Male,Computer Science,4th Year,99.55,52.92,Aurangabad,Pass
+1481,Student_481,20.0,Male,IT,1st Year,97.97,48.28,Pune,Fail
+1482,Student_482,18.0,Male,ECE,4th Year,77.26,36.09,Aurangabad,Pass
+1483,Student_483,18.0,Male,IT,1st Year,78.07,79.15,Nashik,Pass
+1484,Student_484,23.0,Female,IT,1st Year,76.67,39.98,Aurangabad,Fail
+1485,Student_485,23.0,Male,IT,4th Year,83.59,62.35,Mumbai,Fail
+1486,Student_486,22.0,Male,Computer Science,3rd Year,59.08,74.11,Pune,Pass
+1487,Student_487,19.0,Female,IT,1st Year,56.47,95.91,Mumbai,Pass
+1488,Student_488,17.0,Male,Computer Science,3rd Year,57.6,55.27,Nashik,Fail
+1489,Student_489,18.0,Male,Mechanical,3rd Year,75.0,51.24,Mumbai,Pass
+1490,Student_490,23.0,Male,ECE,4th Year,67.4,77.52,Mumbai,Pass
+1491,Student_491,22.0,Male,Computer Science,2nd Year,82.99,75.25,Mumbai,Fail
+1492,Student_492,21.0,Male,Mechanical,4th Year,99.66,56.59,Nagpur,Pass
+1493,Student_493,22.0,Male,Computer Science,2nd Year,72.38,95.33,Nashik,Pass
+1494,Student_494,18.0,Female,Computer Science,2nd Year,80.82,89.92,Mumbai,Pass
+1495,Student_495,18.0,Female,ECE,4th Year,73.7,49.56,Mumbai,Pass
+1496,Student_496,22.0,Male,Civil,4th Year,93.13,50.54,Mumbai,Pass
+1497,Student_497,17.0,Male,Civil,2nd Year,95.6,68.3,Pune,Pass
+1498,Student_498,20.0,Female,Computer Science,4th Year,94.48,85.28,Nagpur,Pass
+1499,Student_499,18.0,Male,IT,2nd Year,98.85,37.86,Pune,Pass
+1500,Student_500,22.0,Male,Mechanical,3rd Year,56.24,80.07,Nagpur,Pass
+1501,Student_501,23.0,Male,IT,4th Year,92.79,77.14,Mumbai,Pass
+1502,Student_502,22.0,Female,IT,3rd Year,88.83,50.05,Nashik,Pass
+1503,Student_503,19.0,Male,Computer Science,1st Year,65.29,79.29,Aurangabad,Pass
+1504,Student_504,20.0,Female,Computer Science,3rd Year,98.03,96.11,Aurangabad,Pass
+1505,Student_505,21.0,Male,Computer Science,3rd Year,61.67,38.04,Mumbai,Pass
+1506,Student_506,17.0,Female,Computer Science,2nd Year,85.58,55.78,Pune,Pass
+1507,Student_507,21.0,Female,Civil,3rd Year,65.12,63.48,Nashik,Fail
+1508,Student_508,20.0,Male,Computer Science,4th Year,74.41,93.45,Nagpur,Pass
+1509,Student_509,20.0,Female,Civil,2nd Year,87.36,97.55,Mumbai,Pass
+1510,Student_510,20.0,Male,Civil,1st Year,80.35,63.87,Nashik,Fail
+1511,Student_511,21.0,Female,Computer Science,4th Year,74.24,83.75,Nashik,Pass
+1512,Student_512,23.0,Male,ECE,1st Year,69.69,69.56,Nagpur,Pass
+1513,Student_513,20.0,Male,Mechanical,3rd Year,92.78,69.96,Nashik,Pass
+1514,Student_514,22.0,Female,IT,4th Year,61.47,53.08,Pune,Pass
+1515,Student_515,21.0,Male,Civil,4th Year,74.35,49.1,Pune,Fail
+1516,Student_516,20.0,Male,Mechanical,1st Year,95.67,53.72,Pune,Pass
+1517,Student_517,22.0,Female,ECE,4th Year,93.06,71.16,Nashik,Pass
+1518,Student_518,23.0,Male,IT,4th Year,73.04,36.9,Pune,Pass
+1519,Student_519,19.0,Male,IT,4th Year,89.34,93.97,Nagpur,Pass
+1520,Student_520,23.0,Female,Civil,3rd Year,92.04,45.16,Nashik,Pass
+1521,Student_521,20.0,Female,Computer Science,1st Year,95.0,49.31,Aurangabad,Pass
+1522,Student_522,21.0,Male,ECE,4th Year,79.5,68.69,Nashik,Pass
+1523,Student_523,18.0,Male,Civil,2nd Year,64.2,81.16,Nagpur,Pass
+1524,Student_524,20.0,Female,ECE,2nd Year,66.49,41.22,Aurangabad,Fail
+1525,Student_525,18.0,Female,Computer Science,2nd Year,68.31,55.65,Nashik,Fail
+1526,Student_526,22.0,Male,Computer Science,2nd Year,81.72,97.96,Pune,Pass
+1527,Student_527,19.0,Female,Civil,3rd Year,56.48,52.05,Mumbai,Pass
+1528,Student_528,17.0,Male,Computer Science,4th Year,83.62,55.35,Mumbai,Pass
+1529,Student_529,23.0,Male,Mechanical,1st Year,71.4,89.37,Pune,Pass
+1530,Student_530,19.0,Male,IT,4th Year,68.29,38.26,Mumbai,Fail
+1531,Student_531,20.0,Male,Civil,3rd Year,94.58,65.2,Mumbai,Pass
+1532,Student_532,18.0,Male,ECE,2nd Year,75.7,59.68,Pune,Pass
+1533,Student_533,23.0,Female,Mechanical,3rd Year,59.28,55.58,Pune,Fail
+1534,Student_534,18.0,Female,Civil,4th Year,92.2,53.57,Nashik,Pass
+1535,Student_535,21.0,Female,Computer Science,1st Year,57.14,40.94,Nashik,Fail
+1536,Student_536,18.0,Female,Computer Science,3rd Year,87.7,55.46,Pune,Fail
+1537,Student_537,21.0,Male,Computer Science,1st Year,89.83,37.8,Nagpur,Pass
+1538,Student_538,22.0,Male,Computer Science,3rd Year,70.87,85.76,Mumbai,Pass
+1539,Student_539,23.0,Male,ECE,1st Year,92.12,60.88,Nashik,Fail
+1540,Student_540,23.0,Male,Mechanical,1st Year,78.2,63.85,Mumbai,Fail
+1541,Student_541,17.0,Female,IT,2nd Year,75.85,93.08,Aurangabad,Pass
+1542,Student_542,20.0,Male,ECE,1st Year,57.04,77.77,Pune,Fail
+1543,Student_543,21.0,Male,ECE,2nd Year,68.05,35.52,Nagpur,Pass
+1544,Student_544,17.0,Female,IT,4th Year,96.9,96.31,Aurangabad,Pass
+1545,Student_545,18.0,Female,IT,4th Year,72.63,50.41,Aurangabad,Fail
+1546,Student_546,18.0,Female,Computer Science,2nd Year,79.6,41.99,Aurangabad,Pass
+1547,Student_547,17.0,Female,ECE,2nd Year,78.94,84.93,Pune,Fail
+1548,Student_548,23.0,Male,Civil,3rd Year,81.57,67.53,Nashik,Pass
+1549,Student_549,18.0,Male,IT,3rd Year,57.76,63.2,Pune,Pass
+1550,Student_550,22.0,Female,IT,3rd Year,71.3,51.22,Nashik,Pass
+1551,Student_551,22.0,Male,Mechanical,4th Year,87.54,70.59,Aurangabad,Pass
+1552,Student_552,17.0,Male,Civil,3rd Year,64.03,52.83,Aurangabad,Pass
+1553,Student_553,21.0,Male,Civil,1st Year,64.16,93.6,Nagpur,Pass
+1554,Student_554,21.0,Female,IT,1st Year,55.45,48.99,Nashik,Pass
+1555,Student_555,17.0,Male,Computer Science,3rd Year,74.69,92.48,Aurangabad,Pass
+1556,Student_556,21.0,Female,Mechanical,1st Year,94.72,71.36,Mumbai,Pass
+1557,Student_557,23.0,Male,Civil,4th Year,57.34,88.85,Nagpur,Fail
+1558,Student_558,23.0,Male,IT,1st Year,63.6,81.33,Pune,Pass
+1559,Student_559,21.0,Male,Civil,4th Year,68.95,80.29,Nagpur,Pass
+1560,Student_560,22.0,Female,Mechanical,2nd Year,87.93,56.08,Mumbai,Pass
+1561,Student_561,21.0,Male,Mechanical,2nd Year,83.83,50.2,Nashik,Pass
+1562,Student_562,23.0,Female,ECE,2nd Year,73.72,48.71,Pune,Pass
+1563,Student_563,19.0,Female,IT,2nd Year,89.16,90.72,Pune,Pass
+1564,Student_564,20.0,Female,Mechanical,1st Year,82.43,88.33,Nashik,Pass
+1565,Student_565,18.0,Male,ECE,3rd Year,95.32,63.64,Nagpur,Pass
+1566,Student_566,19.0,Male,ECE,1st Year,91.81,43.61,Aurangabad,Fail
+1567,Student_567,21.0,Male,Civil,4th Year,66.38,59.85,Nagpur,Pass
+1568,Student_568,22.0,Male,Civil,1st Year,67.21,75.26,Mumbai,Pass
+1569,Student_569,17.0,Female,ECE,1st Year,60.64,64.54,Aurangabad,Pass
+1570,Student_570,21.0,Female,Civil,4th Year,70.16,85.71,Nagpur,Pass
+1571,Student_571,22.0,Female,Mechanical,2nd Year,99.98,99.85,Nashik,Pass
+1572,Student_572,20.0,Male,Computer Science,2nd Year,73.26,47.42,Mumbai,Pass
+1573,Student_573,21.0,Female,Mechanical,2nd Year,64.92,64.88,Mumbai,Pass
+1574,Student_574,23.0,Male,ECE,3rd Year,89.31,63.01,Mumbai,Pass
+1575,Student_575,17.0,Female,ECE,4th Year,79.41,54.79,Aurangabad,Pass
+1576,Student_576,22.0,Male,Mechanical,4th Year,61.73,47.88,Pune,Pass
+1577,Student_577,22.0,Male,Civil,1st Year,72.13,39.27,Aurangabad,Pass
+1578,Student_578,22.0,Female,Civil,3rd Year,73.65,92.66,Nagpur,Pass
+1579,Student_579,20.0,Female,ECE,2nd Year,88.92,62.29,Pune,Pass
+1580,Student_580,21.0,Female,IT,3rd Year,55.93,67.3,Nagpur,Pass
+1581,Student_581,20.0,Female,Civil,4th Year,67.11,94.6,Pune,Pass
+1582,Student_582,18.0,Male,Mechanical,4th Year,78.29,85.46,Aurangabad,Pass
+1583,Student_583,18.0,Female,Civil,1st Year,67.1,43.48,Mumbai,Pass
+1584,Student_584,21.0,Female,Mechanical,1st Year,83.28,71.75,Nashik,Pass
+1585,Student_585,23.0,Female,ECE,4th Year,76.68,63.75,Mumbai,Pass
+1586,Student_586,20.0,Male,Civil,2nd Year,71.28,86.82,Aurangabad,Pass
+1587,Student_587,17.0,Male,Mechanical,2nd Year,97.71,82.08,Pune,Pass
+1588,Student_588,22.0,Female,ECE,3rd Year,83.45,79.88,Mumbai,Pass
+1589,Student_589,22.0,Male,IT,4th Year,60.85,57.14,Aurangabad,Pass
+1590,Student_590,21.0,Female,Mechanical,4th Year,80.2,87.32,Nagpur,Fail
+1591,Student_591,23.0,Male,IT,2nd Year,90.13,38.41,Nashik,Pass
+1592,Student_592,18.0,Male,IT,2nd Year,86.88,45.38,Mumbai,Pass
+1593,Student_593,18.0,Male,Computer Science,4th Year,62.74,56.82,Pune,Fail
+1594,Student_594,22.0,Male,Civil,1st Year,98.76,39.99,Nagpur,Fail
+1595,Student_595,21.0,Female,Mechanical,4th Year,75.2,50.27,Aurangabad,Pass
+1596,Student_596,20.0,Female,IT,4th Year,62.16,88.96,Nashik,Pass
+1597,Student_597,18.0,Female,Computer Science,2nd Year,63.11,96.64,Pune,Pass
+1598,Student_598,20.0,Male,ECE,2nd Year,59.42,54.8,Aurangabad,Pass
+1599,Student_599,23.0,Female,Mechanical,1st Year,91.16,52.19,Aurangabad,Pass
+1600,Student_600,18.0,Female,IT,1st Year,60.49,53.19,Mumbai,Pass
+1601,Student_601,18.0,Female,Civil,3rd Year,60.63,53.05,Mumbai,Pass
+1602,Student_602,19.0,Male,Computer Science,4th Year,93.27,37.34,Pune,Fail
+1603,Student_603,18.0,Male,IT,2nd Year,70.51,95.25,Aurangabad,Fail
+1604,Student_604,17.0,Male,Civil,1st Year,56.39,48.89,Mumbai,Pass
+1605,Student_605,21.0,Female,IT,3rd Year,57.34,62.3,Nashik,Pass
+1606,Student_606,21.0,Female,Mechanical,3rd Year,61.4,35.63,Nashik,Pass
+1607,Student_607,20.0,Female,Mechanical,2nd Year,64.6,90.77,Aurangabad,Fail
+1608,Student_608,23.0,Male,Mechanical,2nd Year,84.93,82.53,Mumbai,Pass
+1609,Student_609,18.0,Male,Computer Science,3rd Year,62.08,96.54,Pune,Pass
+1610,Student_610,17.0,Female,Mechanical,1st Year,60.35,85.81,Pune,Pass
+1611,Student_611,20.0,Male,Civil,3rd Year,89.41,55.39,Pune,Pass
+1612,Student_612,19.0,Male,IT,4th Year,85.2,51.11,Nashik,Pass
+1613,Student_613,20.0,Male,ECE,4th Year,74.59,80.35,Mumbai,Pass
+1614,Student_614,20.0,Male,Civil,2nd Year,79.72,58.67,Mumbai,Pass
+1615,Student_615,18.0,Female,Civil,1st Year,69.04,71.8,Nashik,Pass
+1616,Student_616,19.0,Male,Mechanical,1st Year,76.71,35.41,Pune,Pass
+1617,Student_617,20.0,Male,Computer Science,4th Year,77.8,39.02,Pune,Pass
+1618,Student_618,17.0,Male,IT,3rd Year,72.43,69.8,Aurangabad,Fail
+1619,Student_619,17.0,Male,Computer Science,2nd Year,95.8,71.79,Nagpur,Fail
+1620,Student_620,21.0,Female,IT,3rd Year,55.72,83.84,Mumbai,Fail
+1621,Student_621,19.0,Female,IT,3rd Year,90.2,43.58,Mumbai,Fail
+1622,Student_622,19.0,Male,Computer Science,3rd Year,60.6,68.36,Mumbai,Pass
+1623,Student_623,21.0,Male,Civil,1st Year,90.89,47.64,Nagpur,Pass
+1624,Student_624,20.0,Male,IT,4th Year,82.72,41.06,Aurangabad,Pass
+1625,Student_625,19.0,Male,Computer Science,1st Year,92.95,61.68,Nagpur,Fail
+1626,Student_626,17.0,Male,IT,4th Year,59.39,45.62,Pune,Pass
+1627,Student_627,17.0,Male,ECE,2nd Year,80.15,49.42,Pune,Pass
+1628,Student_628,18.0,Female,Civil,2nd Year,77.55,55.64,Mumbai,Fail
+1629,Student_629,19.0,Male,Mechanical,3rd Year,86.78,51.86,Nashik,Pass
+1630,Student_630,20.0,Female,IT,4th Year,79.04,40.69,Mumbai,Pass
+1631,Student_631,21.0,Female,ECE,4th Year,79.33,40.84,Nashik,Pass
+1632,Student_632,21.0,Male,Mechanical,4th Year,74.33,47.56,Nagpur,Pass
+1633,Student_633,20.0,Female,Mechanical,3rd Year,68.9,38.29,Pune,Pass
+1634,Student_634,23.0,Female,IT,3rd Year,76.7,75.72,Nashik,Pass
+1635,Student_635,22.0,Female,Computer Science,2nd Year,60.33,53.68,Nagpur,Pass
+1636,Student_636,18.0,Female,IT,1st Year,98.27,53.18,Pune,Fail
+1637,Student_637,21.0,Female,ECE,4th Year,87.15,56.58,Nashik,Pass
+1638,Student_638,19.0,Female,Mechanical,4th Year,97.86,78.08,Mumbai,Pass
+1639,Student_639,18.0,Male,IT,1st Year,65.2,91.59,Mumbai,Pass
+1640,Student_640,19.0,Female,Computer Science,4th Year,94.57,84.34,Mumbai,Pass
+1641,Student_641,23.0,Female,IT,3rd Year,91.4,82.29,Nagpur,Pass
+1642,Student_642,17.0,Female,Civil,3rd Year,85.47,66.49,Mumbai,Pass
+1643,Student_643,18.0,Male,Computer Science,4th Year,83.13,80.1,Aurangabad,Pass
+1644,Student_644,21.0,Female,ECE,3rd Year,69.24,70.93,Pune,Pass
+1645,Student_645,18.0,Male,Mechanical,3rd Year,91.74,49.06,Nagpur,Pass
+1646,Student_646,18.0,Female,IT,4th Year,77.57,48.56,Mumbai,Pass
+1647,Student_647,18.0,Male,Computer Science,2nd Year,58.19,54.27,Pune,Pass
+1648,Student_648,22.0,Male,Civil,1st Year,69.08,94.2,Nashik,Pass
+1649,Student_649,18.0,Female,Computer Science,3rd Year,97.09,70.58,Mumbai,Pass
+1650,Student_650,19.0,Female,Civil,2nd Year,93.28,82.7,Pune,Fail
+1651,Student_651,17.0,Male,ECE,3rd Year,99.19,57.53,Aurangabad,Pass
+1652,Student_652,23.0,Female,Mechanical,3rd Year,83.26,61.5,Nashik,Pass
+1653,Student_653,20.0,Male,ECE,1st Year,66.14,43.16,Aurangabad,Pass
+1654,Student_654,18.0,Male,IT,3rd Year,62.33,46.13,Pune,Pass
+1655,Student_655,21.0,Male,Computer Science,1st Year,63.41,88.78,Aurangabad,Pass
+1656,Student_656,18.0,Male,Civil,1st Year,55.89,73.01,Pune,Pass
+1657,Student_657,21.0,Male,Civil,1st Year,72.58,56.94,Pune,Pass
+1658,Student_658,19.0,Female,Computer Science,2nd Year,63.61,87.19,Aurangabad,Pass
+1659,Student_659,21.0,Male,Computer Science,4th Year,73.52,51.02,Pune,Pass
+1660,Student_660,20.0,Male,IT,2nd Year,97.07,98.44,Mumbai,Pass
+1661,Student_661,17.0,Female,ECE,4th Year,74.37,57.41,Pune,Pass
+1662,Student_662,21.0,Male,Civil,4th Year,94.51,56.93,Nagpur,Pass
+1663,Student_663,21.0,Female,IT,1st Year,82.25,55.27,Pune,Fail
+1664,Student_664,17.0,Female,ECE,3rd Year,66.12,42.94,Nagpur,Pass
+1665,Student_665,20.0,Female,IT,1st Year,71.01,42.22,Pune,Pass
+1666,Student_666,18.0,Male,Civil,3rd Year,58.78,77.13,Pune,Pass
+1667,Student_667,21.0,Male,Computer Science,4th Year,70.01,91.88,Aurangabad,Pass
+1668,Student_668,17.0,Male,Computer Science,1st Year,85.49,86.38,Mumbai,Pass
+1669,Student_669,19.0,Female,ECE,3rd Year,58.24,44.17,Mumbai,Pass
+1670,Student_670,17.0,Male,Mechanical,2nd Year,64.24,70.46,Nashik,Pass
+1671,Student_671,19.0,Female,ECE,3rd Year,72.16,41.86,Aurangabad,Pass
+1672,Student_672,20.0,Male,Mechanical,1st Year,99.19,37.94,Aurangabad,Fail
+1673,Student_673,18.0,Female,IT,2nd Year,90.32,77.67,Mumbai,Pass
+1674,Student_674,17.0,Male,IT,3rd Year,88.01,69.78,Aurangabad,Pass
+1675,Student_675,23.0,Male,Civil,3rd Year,60.23,40.33,Mumbai,Fail
+1676,Student_676,23.0,Male,Mechanical,3rd Year,90.14,37.27,Aurangabad,Fail
+1677,Student_677,22.0,Female,Civil,3rd Year,90.34,99.33,Pune,Pass
+1678,Student_678,21.0,Female,Computer Science,3rd Year,82.05,36.95,Mumbai,Pass
+1679,Student_679,20.0,Male,Mechanical,2nd Year,99.57,63.89,Mumbai,Fail
+1680,Student_680,17.0,Male,ECE,4th Year,69.64,67.8,Nagpur,Pass
+1681,Student_681,23.0,Female,Computer Science,2nd Year,97.36,42.62,Aurangabad,Pass
+1682,Student_682,21.0,Female,Computer Science,2nd Year,96.16,45.99,Aurangabad,Pass
+1683,Student_683,23.0,Female,ECE,2nd Year,55.52,57.87,Mumbai,Pass
+1684,Student_684,17.0,Male,Computer Science,4th Year,75.26,84.51,Pune,Pass
+1685,Student_685,19.0,Female,Mechanical,1st Year,98.97,67.96,Pune,Pass
+1686,Student_686,17.0,Male,Civil,4th Year,59.64,76.46,Pune,Pass
+1687,Student_687,22.0,Female,Computer Science,2nd Year,79.65,99.04,Aurangabad,Pass
+1688,Student_688,17.0,Male,Mechanical,3rd Year,99.05,84.92,Nagpur,Pass
+1689,Student_689,17.0,Female,IT,3rd Year,80.0,63.23,Mumbai,Fail
+1690,Student_690,22.0,Female,Mechanical,2nd Year,63.54,64.02,Nashik,Fail
+1691,Student_691,20.0,Female,Civil,3rd Year,81.2,75.22,Nagpur,Pass
+1692,Student_692,17.0,Female,Mechanical,2nd Year,64.2,78.25,Nashik,Pass
+1693,Student_693,22.0,Female,ECE,3rd Year,78.39,67.55,Nagpur,Pass
+1694,Student_694,21.0,Male,Civil,4th Year,58.33,76.92,Pune,Pass
+1695,Student_695,19.0,Female,IT,1st Year,82.25,36.53,Aurangabad,Pass
+1696,Student_696,19.0,Female,ECE,1st Year,78.26,62.93,Nashik,Pass
+1697,Student_697,17.0,Female,Mechanical,4th Year,88.31,53.13,Nagpur,Fail
+1698,Student_698,20.0,Male,Civil,4th Year,83.38,43.4,Aurangabad,Pass
+1699,Student_699,20.0,Female,IT,2nd Year,79.73,41.47,Nashik,Pass
+1700,Student_700,21.0,Male,ECE,2nd Year,86.04,74.21,Mumbai,Pass
+1701,Student_701,17.0,Female,IT,2nd Year,61.48,,Nagpur,Pass
+1702,Student_702,19.0,Female,Mechanical,3rd Year,81.79,51.48,Mumbai,Pass
+1703,Student_703,20.0,Male,IT,2nd Year,62.74,65.61,Pune,Pass
+1704,Student_704,17.0,Female,Computer Science,4th Year,96.65,67.0,Mumbai,Pass
+1705,Student_705,23.0,Male,ECE,1st Year,58.08,47.68,Mumbai,Fail
+1706,Student_706,20.0,Male,IT,3rd Year,74.37,77.39,Nagpur,Pass
+1707,Student_707,22.0,Female,Mechanical,2nd Year,86.31,85.76,Pune,Fail
+1708,Student_708,23.0,Male,Mechanical,3rd Year,75.61,86.45,Mumbai,Pass
+1709,Student_709,20.0,Female,IT,3rd Year,59.14,74.16,Aurangabad,Pass
+1710,Student_710,19.0,Female,Mechanical,2nd Year,79.9,68.26,Nashik,Pass
+1711,Student_711,18.0,Male,Civil,3rd Year,83.87,38.97,Mumbai,Pass
+1712,Student_712,23.0,Male,Civil,1st Year,86.67,53.71,Pune,Pass
+1713,Student_713,21.0,Male,Civil,4th Year,71.8,41.06,Mumbai,Pass
+1714,Student_714,21.0,Male,Computer Science,4th Year,80.36,97.65,Nashik,Pass
+1715,Student_715,19.0,Female,IT,1st Year,75.28,43.78,Pune,Pass
+1716,Student_716,20.0,Female,Computer Science,3rd Year,85.24,44.87,Nagpur,Pass
+1717,Student_717,17.0,Male,Mechanical,2nd Year,81.26,92.82,Pune,Pass
+1718,Student_718,20.0,Female,Computer Science,3rd Year,78.66,96.36,Nagpur,Pass
+1719,Student_719,19.0,Female,Mechanical,1st Year,66.23,84.78,Pune,Pass
+1720,Student_720,21.0,Female,Mechanical,3rd Year,55.09,35.35,Nashik,Pass
+1721,Student_721,20.0,Female,ECE,4th Year,62.83,35.09,Nashik,Fail
+1722,Student_722,21.0,Male,Civil,3rd Year,60.27,59.58,Pune,Pass
+1723,Student_723,23.0,Male,Mechanical,1st Year,75.21,44.32,Mumbai,Pass
+1724,Student_724,17.0,Female,ECE,4th Year,82.55,36.2,Nashik,Pass
+1725,Student_725,23.0,Male,Civil,3rd Year,64.59,65.16,Nagpur,Pass
+1726,Student_726,21.0,Male,Mechanical,3rd Year,97.26,96.3,Nagpur,Pass
+1727,Student_727,21.0,Male,Mechanical,4th Year,55.3,56.05,Aurangabad,Fail
+1728,Student_728,18.0,Female,Computer Science,2nd Year,89.75,77.97,Nagpur,Fail
+1729,Student_729,18.0,Female,Computer Science,4th Year,83.13,77.4,Aurangabad,Pass
+1730,Student_730,23.0,Female,Civil,2nd Year,71.81,51.32,Pune,Pass
+1731,Student_731,22.0,Male,Mechanical,1st Year,57.27,77.28,Pune,Pass
+1732,Student_732,23.0,Female,IT,1st Year,83.24,48.8,Pune,Pass
+1733,Student_733,18.0,Female,Computer Science,4th Year,72.35,42.93,Mumbai,Pass
+1734,Student_734,21.0,Male,Civil,4th Year,97.13,80.59,Mumbai,Pass
+1735,Student_735,19.0,Female,Mechanical,1st Year,79.39,42.37,Aurangabad,Pass
+1736,Student_736,23.0,Female,Mechanical,2nd Year,97.28,99.8,Nagpur,Fail
+1737,Student_737,21.0,Male,IT,1st Year,64.92,46.92,Nagpur,Pass
+1738,Student_738,19.0,Male,Civil,4th Year,87.66,73.62,Pune,Pass
+1739,Student_739,19.0,Male,Mechanical,1st Year,82.78,61.74,Nashik,Fail
+1740,Student_740,18.0,Female,Computer Science,4th Year,88.27,43.22,Mumbai,Pass
+1741,Student_741,23.0,Female,IT,4th Year,64.66,36.81,Mumbai,Fail
+1742,Student_742,20.0,Female,Civil,1st Year,84.92,75.48,Pune,Pass
+1743,Student_743,17.0,Male,IT,2nd Year,77.41,87.44,Mumbai,Pass
+1744,Student_744,18.0,Male,Computer Science,3rd Year,88.43,89.73,Pune,Fail
+1745,Student_745,18.0,Female,Civil,1st Year,69.72,66.38,Aurangabad,Pass
+1746,Student_746,20.0,Female,IT,3rd Year,95.05,85.53,Nagpur,Pass
+1747,Student_747,17.0,Male,ECE,1st Year,58.79,78.74,Nashik,Pass
+1748,Student_748,21.0,Male,Computer Science,3rd Year,91.32,82.08,Nagpur,Pass
+1749,Student_749,22.0,Male,Computer Science,2nd Year,93.76,67.02,Nagpur,Pass
+1750,Student_750,23.0,Male,Computer Science,2nd Year,91.78,76.17,Aurangabad,Fail
+1751,Student_751,22.0,Female,ECE,1st Year,78.07,87.36,Mumbai,Fail
+1752,Student_752,21.0,Male,ECE,4th Year,74.73,60.86,Nashik,Fail
+1753,Student_753,18.0,Female,Mechanical,3rd Year,99.83,87.39,Mumbai,Pass
+1754,Student_754,17.0,Female,IT,4th Year,65.31,73.48,Nagpur,Pass
+1755,Student_755,18.0,Female,Mechanical,4th Year,79.61,45.78,Pune,Pass
+1756,Student_756,19.0,Male,IT,4th Year,85.18,36.6,Nagpur,Fail
+1757,Student_757,18.0,Male,ECE,2nd Year,86.54,58.58,Mumbai,Pass
+1758,Student_758,18.0,Male,ECE,1st Year,64.18,70.54,Nagpur,Pass
+1759,Student_759,21.0,Male,Mechanical,1st Year,84.43,89.59,Pune,Pass
+1760,Student_760,21.0,Female,Civil,2nd Year,91.83,43.29,Aurangabad,Pass
+1761,Student_761,21.0,Male,Mechanical,2nd Year,57.25,87.01,Mumbai,Pass
+1762,Student_762,22.0,Male,IT,1st Year,96.02,91.1,Nagpur,Fail
+1763,Student_763,19.0,Female,Mechanical,4th Year,56.33,44.79,Mumbai,Fail
+1764,Student_764,21.0,Male,Computer Science,3rd Year,71.02,90.35,Aurangabad,Pass
+1765,Student_765,17.0,Female,IT,3rd Year,55.71,99.44,Nagpur,Pass
+1766,Student_766,22.0,Female,IT,3rd Year,58.47,82.24,Nagpur,Fail
+1767,Student_767,20.0,Female,Civil,4th Year,96.0,86.01,Mumbai,Pass
+1768,Student_768,17.0,Female,ECE,1st Year,70.97,99.64,Mumbai,Pass
+1769,Student_769,23.0,Female,IT,2nd Year,74.11,74.36,Pune,Pass
+1770,Student_770,23.0,Female,ECE,1st Year,64.69,55.01,Aurangabad,Pass
+1771,Student_771,17.0,Female,Mechanical,4th Year,81.87,89.44,Pune,Pass
+1772,Student_772,21.0,Female,Computer Science,2nd Year,81.77,74.94,Nagpur,Pass
+1773,Student_773,20.0,Male,Civil,4th Year,71.75,72.78,Mumbai,Pass
+1774,Student_774,20.0,Male,ECE,3rd Year,69.99,51.49,Nagpur,Pass
+1775,Student_775,22.0,Male,IT,3rd Year,94.82,84.16,Nagpur,Fail
+1776,Student_776,20.0,Male,ECE,4th Year,72.25,40.31,Nashik,Fail
+1777,Student_777,23.0,Female,IT,2nd Year,77.21,95.08,Nashik,Fail
+1778,Student_778,19.0,Male,ECE,2nd Year,67.75,56.18,Nagpur,Pass
+1779,Student_779,21.0,Female,IT,1st Year,90.4,43.31,Mumbai,Pass
+1780,Student_780,20.0,Male,Mechanical,3rd Year,72.89,63.75,Nagpur,Pass
+1781,Student_781,22.0,Male,IT,1st Year,78.11,37.76,Nashik,Fail
+1782,Student_782,23.0,Male,IT,1st Year,66.4,79.5,Mumbai,Pass
+1783,Student_783,19.0,Female,Computer Science,4th Year,99.44,93.68,Nagpur,Pass
+1784,Student_784,18.0,Male,IT,4th Year,68.12,89.42,Aurangabad,Pass
+1785,Student_785,18.0,Female,Computer Science,1st Year,89.68,43.28,Aurangabad,Pass
+1786,Student_786,19.0,Female,Civil,3rd Year,74.24,43.21,Nagpur,Pass
+1787,Student_787,23.0,Male,Computer Science,4th Year,64.28,87.87,Mumbai,Fail
+1788,Student_788,22.0,Male,Mechanical,1st Year,90.99,95.08,Nagpur,Fail
+1789,Student_789,19.0,Male,Computer Science,1st Year,70.01,64.94,Nagpur,Pass
+1790,Student_790,21.0,Female,Civil,1st Year,93.93,67.43,Nashik,Fail
+1791,Student_791,21.0,Male,Mechanical,1st Year,96.19,55.69,Aurangabad,Pass
+1792,Student_792,18.0,Female,ECE,1st Year,93.69,93.13,Nashik,Pass
+1793,Student_793,20.0,Female,ECE,1st Year,56.58,76.92,Nashik,Pass
+1794,Student_794,22.0,Male,Computer Science,4th Year,90.43,53.74,Nagpur,Pass
+1795,Student_795,18.0,Male,Computer Science,3rd Year,73.51,54.42,Nashik,Pass
+1796,Student_796,20.0,Female,Civil,1st Year,94.32,92.93,Aurangabad,Fail
+1797,Student_797,20.0,Female,Civil,2nd Year,83.71,35.89,Nashik,Pass
+1798,Student_798,21.0,Female,IT,4th Year,92.51,55.98,Aurangabad,Pass
+1799,Student_799,23.0,Male,Civil,4th Year,77.47,71.03,Nashik,Pass
+1800,Student_800,17.0,Female,IT,1st Year,79.08,44.63,Aurangabad,Fail
+1801,Student_801,23.0,Male,Mechanical,4th Year,61.5,40.99,Nashik,Pass
+1802,Student_802,17.0,Female,Computer Science,1st Year,90.28,87.99,Nashik,Pass
+1803,Student_803,19.0,Female,Mechanical,3rd Year,73.87,93.14,Mumbai,Pass
+1804,Student_804,21.0,Male,Civil,3rd Year,77.5,88.53,Aurangabad,Pass
+1805,Student_805,20.0,Female,Mechanical,4th Year,90.33,93.42,Aurangabad,Pass
+1806,Student_806,22.0,Male,Mechanical,4th Year,81.95,70.95,Aurangabad,Pass
+1807,Student_807,17.0,Male,Mechanical,2nd Year,64.05,87.8,Pune,Pass
+1808,Student_808,23.0,Female,Civil,4th Year,81.56,59.96,Nashik,Pass
+1809,Student_809,20.0,Male,Mechanical,2nd Year,73.34,78.31,Aurangabad,Fail
+1810,Student_810,17.0,Male,IT,3rd Year,76.13,99.27,Pune,Pass
+1811,Student_811,17.0,Female,Civil,3rd Year,56.27,49.67,Mumbai,Pass
+1812,Student_812,17.0,Male,Mechanical,1st Year,64.45,60.34,Aurangabad,Fail
+1813,Student_813,22.0,Male,Civil,3rd Year,67.65,66.2,Aurangabad,Pass
+1814,Student_814,21.0,Male,ECE,2nd Year,87.08,43.97,Pune,Fail
+1815,Student_815,22.0,Female,IT,4th Year,55.52,40.27,Nashik,Pass
+1816,Student_816,18.0,Male,Mechanical,1st Year,73.39,88.93,Mumbai,Pass
+1817,Student_817,20.0,Female,ECE,2nd Year,96.58,98.49,Aurangabad,Pass
+1818,Student_818,21.0,Female,ECE,4th Year,60.03,61.31,Nashik,Fail
+1819,Student_819,21.0,Male,Civil,1st Year,78.24,40.7,Mumbai,Pass
+1820,Student_820,21.0,Male,ECE,3rd Year,90.39,39.28,Nagpur,Pass
+1821,Student_821,23.0,Male,IT,2nd Year,97.41,92.94,Nagpur,Fail
+1822,Student_822,21.0,Female,IT,4th Year,88.6,65.15,Mumbai,Pass
+1823,Student_823,22.0,Male,Computer Science,1st Year,87.43,55.8,Pune,Pass
+1824,Student_824,21.0,Male,IT,1st Year,92.19,65.97,Mumbai,Pass
+1825,Student_825,19.0,Male,ECE,3rd Year,75.08,55.69,Mumbai,Pass
+1826,Student_826,20.0,Male,IT,4th Year,91.26,66.79,Pune,Pass
+1827,Student_827,21.0,Male,Civil,3rd Year,55.36,90.87,Pune,Pass
+1828,Student_828,20.0,Female,Computer Science,3rd Year,96.61,73.5,Nashik,Pass
+1829,Student_829,19.0,Female,ECE,4th Year,74.95,80.15,Nashik,Pass
+1830,Student_830,19.0,Male,Computer Science,4th Year,79.9,58.7,Pune,Fail
+1831,Student_831,20.0,Male,ECE,4th Year,66.47,83.0,Nagpur,Fail
+1832,Student_832,17.0,Male,Civil,2nd Year,88.41,78.33,Nagpur,Pass
+1833,Student_833,18.0,Male,Computer Science,4th Year,58.45,42.77,Mumbai,Fail
+1834,Student_834,23.0,Female,Mechanical,1st Year,94.27,72.22,Aurangabad,Pass
+1835,Student_835,17.0,Male,ECE,3rd Year,92.27,51.69,Mumbai,Pass
+1836,Student_836,17.0,Female,Mechanical,2nd Year,64.72,87.27,Mumbai,Pass
+1837,Student_837,22.0,Female,Computer Science,4th Year,91.42,62.69,Aurangabad,Pass
+1838,Student_838,23.0,Male,Mechanical,2nd Year,90.39,99.65,Pune,Pass
+1839,Student_839,23.0,Female,Mechanical,4th Year,83.45,41.01,Nagpur,Fail
+1840,Student_840,17.0,Female,Computer Science,2nd Year,71.81,85.72,Mumbai,Pass
+1841,Student_841,21.0,Female,Civil,3rd Year,67.22,78.79,Aurangabad,Fail
+1842,Student_842,22.0,Female,Mechanical,3rd Year,65.43,84.89,Nashik,Pass
+1843,Student_843,22.0,Male,Mechanical,1st Year,69.34,54.99,Mumbai,Pass
+1844,Student_844,19.0,Male,Civil,1st Year,95.66,66.98,Nagpur,Pass
+1845,Student_845,23.0,Female,Mechanical,4th Year,58.49,86.77,Pune,Pass
+1846,Student_846,17.0,Male,Mechanical,3rd Year,92.3,50.12,Mumbai,Pass
+1847,Student_847,19.0,Male,Mechanical,2nd Year,70.7,49.69,Mumbai,Pass
+1848,Student_848,20.0,Male,IT,2nd Year,78.47,70.82,Aurangabad,Pass
+1849,Student_849,18.0,Male,Civil,2nd Year,90.75,69.03,Nashik,Pass
+1850,Student_850,22.0,Male,Mechanical,1st Year,94.8,53.35,Nashik,Pass
+1851,Student_851,20.0,Female,Civil,2nd Year,70.52,54.37,Pune,Pass
+1852,Student_852,20.0,Male,ECE,1st Year,75.78,53.06,Nagpur,Fail
+1853,Student_853,21.0,Male,ECE,1st Year,73.65,85.15,Pune,Pass
+1854,Student_854,18.0,Male,Mechanical,4th Year,55.6,77.37,Mumbai,Pass
+1855,Student_855,20.0,Male,Civil,2nd Year,68.32,89.11,Mumbai,Fail
+1856,Student_856,20.0,Female,Civil,2nd Year,75.66,98.41,Nashik,Pass
+1857,Student_857,18.0,Female,Civil,3rd Year,73.5,65.82,Nagpur,Pass
+1858,Student_858,18.0,Female,IT,4th Year,87.49,39.34,Aurangabad,Fail
+1859,Student_859,20.0,Female,ECE,3rd Year,72.32,38.13,Nagpur,Pass
+1860,Student_860,18.0,Male,Civil,4th Year,77.02,54.22,Mumbai,Pass
+1861,Student_861,20.0,Female,Civil,2nd Year,74.33,95.62,Aurangabad,Pass
+1862,Student_862,20.0,Male,IT,1st Year,88.33,69.01,Nagpur,Fail
+1863,Student_863,21.0,Male,IT,1st Year,93.83,52.67,Nagpur,Fail
+1864,Student_864,17.0,Male,Civil,1st Year,78.94,60.95,Aurangabad,Pass
+1865,Student_865,20.0,Male,Computer Science,1st Year,90.52,73.91,Mumbai,Pass
+1866,Student_866,19.0,Male,Civil,1st Year,68.36,77.44,Nagpur,Pass
+1867,Student_867,22.0,Female,Civil,3rd Year,79.36,45.0,Aurangabad,Pass
+1868,Student_868,23.0,Female,IT,4th Year,70.54,98.51,Mumbai,Pass
+1869,Student_869,17.0,Female,IT,2nd Year,73.64,70.41,Aurangabad,Pass
+1870,Student_870,17.0,Female,Civil,3rd Year,87.96,43.82,Aurangabad,Fail
+1871,Student_871,17.0,Male,Civil,4th Year,94.67,93.09,Nagpur,Fail
+1872,Student_872,21.0,Female,Civil,1st Year,60.47,39.85,Mumbai,Pass
+1873,Student_873,20.0,Male,IT,4th Year,83.56,94.0,Nagpur,Pass
+1874,Student_874,21.0,Female,Civil,4th Year,81.2,99.78,Pune,Pass
+1875,Student_875,20.0,Male,Civil,1st Year,60.33,80.53,Pune,Pass
+1876,Student_876,21.0,Male,Mechanical,1st Year,64.54,85.08,Mumbai,Pass
+1877,Student_877,21.0,Female,Computer Science,1st Year,69.0,56.92,Aurangabad,Fail
+1878,Student_878,22.0,Male,ECE,2nd Year,62.51,96.2,Nagpur,Pass
+1879,Student_879,19.0,Male,Computer Science,1st Year,65.97,69.43,Nagpur,Pass
+1880,Student_880,21.0,Female,Mechanical,2nd Year,67.04,82.61,Mumbai,Pass
+1881,Student_881,22.0,Male,ECE,1st Year,70.11,95.07,Mumbai,Pass
+1882,Student_882,18.0,Female,Civil,2nd Year,88.72,98.39,Pune,Pass
+1883,Student_883,19.0,Female,Mechanical,4th Year,80.74,89.16,Nashik,Pass
+1884,Student_884,21.0,Female,Civil,3rd Year,99.38,54.7,Mumbai,Pass
+1885,Student_885,23.0,Male,IT,4th Year,73.66,97.83,Nashik,Fail
+1886,Student_886,17.0,Male,Mechanical,4th Year,88.92,75.83,Mumbai,Pass
+1887,Student_887,18.0,Male,IT,1st Year,94.22,95.49,Aurangabad,Pass
+1888,Student_888,18.0,Female,Mechanical,2nd Year,85.55,78.95,Aurangabad,Pass
+1889,Student_889,22.0,Male,Mechanical,3rd Year,73.53,54.97,Pune,Pass
+1890,Student_890,18.0,Female,IT,1st Year,88.91,59.05,Pune,Pass
+1891,Student_891,19.0,Female,ECE,1st Year,64.17,70.78,Nashik,Pass
+1892,Student_892,21.0,Male,Computer Science,1st Year,69.74,86.35,Mumbai,Pass
+1893,Student_893,21.0,Female,Civil,4th Year,79.6,55.67,Nagpur,Pass
+1894,Student_894,23.0,Male,Mechanical,2nd Year,80.89,72.68,Pune,Pass
+1895,Student_895,17.0,Male,Civil,2nd Year,56.0,57.47,Nagpur,Pass
+1896,Student_896,22.0,Male,IT,3rd Year,97.53,88.03,Nagpur,Fail
+1897,Student_897,17.0,Male,Civil,2nd Year,86.35,65.34,Mumbai,Pass
+1898,Student_898,18.0,Male,IT,2nd Year,77.31,39.99,Nashik,Pass
+1899,Student_899,23.0,Female,Civil,1st Year,96.99,45.79,Mumbai,Pass
+1900,Student_900,17.0,Female,Computer Science,1st Year,74.76,38.97,Pune,Pass
+1901,Student_901,19.0,Female,Computer Science,4th Year,99.12,67.45,Nagpur,Fail
+1902,Student_902,21.0,Male,Computer Science,1st Year,78.05,41.91,Mumbai,Pass
+1903,Student_903,18.0,Male,Computer Science,1st Year,60.14,42.42,Mumbai,Fail
+1904,Student_904,23.0,Male,Computer Science,1st Year,89.42,96.17,Mumbai,Fail
+1905,Student_905,17.0,Female,Computer Science,1st Year,85.55,91.72,Pune,Pass
+1906,Student_906,22.0,Male,IT,4th Year,89.78,64.39,Nashik,Pass
+1907,Student_907,19.0,Female,Mechanical,1st Year,97.81,99.08,Mumbai,Pass
+1908,Student_908,19.0,Female,Civil,3rd Year,89.94,35.01,Pune,Fail
+1909,Student_909,17.0,Male,Computer Science,3rd Year,82.51,74.91,Nagpur,Pass
+1910,Student_910,21.0,Male,IT,3rd Year,93.58,75.07,Aurangabad,Pass
+1911,Student_911,17.0,Female,IT,3rd Year,85.3,64.73,Pune,Pass
+1912,Student_912,18.0,Male,IT,1st Year,73.37,60.8,Aurangabad,Pass
+1913,Student_913,17.0,Female,Mechanical,3rd Year,94.85,64.6,Mumbai,Pass
+1914,Student_914,19.0,Male,Civil,1st Year,64.99,61.97,Mumbai,Pass
+1915,Student_915,23.0,Male,Mechanical,4th Year,87.16,82.48,Pune,Pass
+1916,Student_916,17.0,Female,ECE,3rd Year,94.67,43.8,Aurangabad,Fail
+1917,Student_917,21.0,Male,IT,2nd Year,87.91,47.85,Mumbai,Pass
+1918,Student_918,23.0,Female,ECE,3rd Year,86.38,46.73,Nagpur,Pass
+1919,Student_919,22.0,Male,Computer Science,3rd Year,88.87,52.06,Nashik,Pass
+1920,Student_920,20.0,Female,Computer Science,1st Year,75.93,69.14,Nashik,Pass
+1921,Student_921,17.0,Female,Mechanical,3rd Year,94.34,42.23,Mumbai,Pass
+1922,Student_922,21.0,Male,Civil,2nd Year,64.15,91.43,Aurangabad,Pass
+1923,Student_923,23.0,Female,ECE,1st Year,60.73,54.33,Mumbai,Pass
+1924,Student_924,21.0,Male,Civil,1st Year,67.85,45.56,Aurangabad,Pass
+1925,Student_925,22.0,Male,Mechanical,4th Year,78.92,78.92,Nagpur,Pass
+1926,Student_926,19.0,Male,Computer Science,4th Year,77.98,37.48,Aurangabad,Pass
+1927,Student_927,21.0,Female,Civil,3rd Year,91.93,75.3,Mumbai,Pass
+1928,Student_928,23.0,Female,Civil,4th Year,73.21,80.38,Nagpur,Pass
+1929,Student_929,21.0,Male,Computer Science,4th Year,76.8,48.97,Pune,Pass
+1930,Student_930,21.0,Male,ECE,4th Year,55.6,37.73,Nashik,Pass
+1931,Student_931,21.0,Female,Computer Science,1st Year,73.44,58.64,Mumbai,Pass
+1932,Student_932,18.0,Male,Civil,1st Year,84.15,41.41,Mumbai,Pass
+1933,Student_933,18.0,Male,ECE,1st Year,55.7,42.57,Mumbai,Fail
+1934,Student_934,19.0,Female,ECE,4th Year,67.64,51.53,Nagpur,Fail
+1935,Student_935,17.0,Male,Computer Science,1st Year,64.36,54.21,Pune,Pass
+1936,Student_936,21.0,Female,Civil,4th Year,56.89,69.45,Aurangabad,Pass
+1937,Student_937,22.0,Male,Mechanical,1st Year,76.57,79.1,Pune,Fail
+1938,Student_938,17.0,Female,Civil,1st Year,63.18,73.53,Nagpur,Pass
+1939,Student_939,22.0,Male,IT,2nd Year,88.44,44.64,Mumbai,Pass
+1940,Student_940,17.0,Male,Mechanical,3rd Year,93.16,46.19,Nashik,Fail
+1941,Student_941,19.0,Female,ECE,4th Year,79.55,92.12,Mumbai,Pass
+1942,Student_942,21.0,Male,Mechanical,2nd Year,99.18,71.29,Aurangabad,Pass
+1943,Student_943,21.0,Female,ECE,1st Year,75.27,91.55,Nashik,Pass
+1944,Student_944,20.0,Male,ECE,4th Year,78.1,59.15,Mumbai,Pass
+1945,Student_945,22.0,Female,Mechanical,1st Year,99.51,74.94,Nashik,Pass
+1946,Student_946,17.0,Female,ECE,3rd Year,65.42,69.04,Pune,Pass
+1947,Student_947,17.0,Female,ECE,2nd Year,97.41,55.74,Nagpur,Pass
+1948,Student_948,18.0,Female,IT,3rd Year,56.93,65.54,Mumbai,Pass
+1949,Student_949,20.0,Male,Civil,2nd Year,75.09,67.66,Aurangabad,Pass
+1950,Student_950,23.0,Male,Civil,1st Year,58.15,48.05,Pune,Pass
+1951,Student_951,23.0,Female,IT,3rd Year,87.82,55.48,Mumbai,Pass
+1952,Student_952,18.0,Female,Mechanical,3rd Year,82.38,86.44,Pune,Pass
+1953,Student_953,18.0,Female,Computer Science,1st Year,86.8,94.53,Aurangabad,Pass
+1954,Student_954,18.0,Male,Computer Science,3rd Year,71.85,58.39,Mumbai,Fail
+1955,Student_955,22.0,Male,Computer Science,4th Year,71.63,54.95,Aurangabad,Pass
+1956,Student_956,22.0,Male,IT,2nd Year,57.04,47.69,Nashik,Pass
+1957,Student_957,19.0,Male,IT,2nd Year,70.75,79.1,Aurangabad,Pass
+1958,Student_958,19.0,Female,ECE,2nd Year,96.82,56.0,Nashik,Pass
+1959,Student_959,18.0,Female,Computer Science,4th Year,72.07,99.2,Mumbai,Pass
+1960,Student_960,20.0,Female,Mechanical,2nd Year,92.41,56.17,Nashik,Pass
+1961,Student_961,17.0,Male,Mechanical,1st Year,92.9,60.62,Mumbai,Pass
+1962,Student_962,22.0,Male,Computer Science,3rd Year,71.8,74.22,Mumbai,Pass
+1963,Student_963,20.0,Male,Computer Science,4th Year,83.44,87.11,Nagpur,Fail
+1964,Student_964,21.0,Female,Computer Science,2nd Year,59.29,65.52,Mumbai,Fail
+1965,Student_965,22.0,Female,IT,1st Year,59.67,62.47,Nashik,Pass
+1966,Student_966,22.0,Male,IT,3rd Year,57.19,99.72,Nagpur,Pass
+1967,Student_967,19.0,Female,IT,3rd Year,81.15,35.68,Nagpur,Pass
+1968,Student_968,17.0,Male,Civil,4th Year,74.17,93.18,Mumbai,Pass
+1969,Student_969,17.0,Male,Mechanical,4th Year,79.66,44.69,Aurangabad,Pass
+1970,Student_970,23.0,Female,Mechanical,4th Year,78.45,86.09,Aurangabad,Pass
+1971,Student_971,23.0,Male,ECE,1st Year,70.76,75.17,Nagpur,Fail
+1972,Student_972,23.0,Female,IT,1st Year,85.49,57.22,Mumbai,Pass
+1973,Student_973,23.0,Male,Civil,4th Year,89.13,91.8,Aurangabad,Pass
+1974,Student_974,21.0,Female,Civil,2nd Year,55.66,35.84,Mumbai,Pass
+1975,Student_975,21.0,Female,Mechanical,3rd Year,64.33,49.73,Mumbai,Pass
+1976,Student_976,22.0,Female,IT,3rd Year,87.1,71.85,Nagpur,Pass
+1977,Student_977,18.0,Male,ECE,1st Year,72.4,57.85,Nagpur,Pass
+1978,Student_978,19.0,Male,IT,3rd Year,84.81,74.67,Pune,Fail
+1979,Student_979,19.0,Female,Computer Science,2nd Year,70.61,36.57,Aurangabad,Pass
+1980,Student_980,23.0,Female,IT,3rd Year,72.58,42.57,Aurangabad,Pass
+1981,Student_981,22.0,Male,Computer Science,1st Year,62.14,43.26,Aurangabad,Fail
+1982,Student_982,20.0,Male,Computer Science,1st Year,66.62,47.3,Nashik,Pass
+1983,Student_983,18.0,Male,ECE,2nd Year,82.24,64.86,Mumbai,Pass
+1984,Student_984,22.0,Female,Mechanical,2nd Year,74.49,83.89,Nagpur,Pass
+1985,Student_985,18.0,Male,IT,3rd Year,89.84,93.86,Aurangabad,Pass
+1986,Student_986,18.0,Male,Computer Science,3rd Year,93.37,89.3,Pune,Pass
+1987,Student_987,18.0,Female,IT,1st Year,79.37,47.8,Aurangabad,Pass
+1988,Student_988,22.0,Male,Mechanical,2nd Year,89.12,63.67,Mumbai,Fail
+1989,Student_989,23.0,Male,Mechanical,2nd Year,68.81,47.96,Mumbai,Pass
+1990,Student_990,19.0,Male,Civil,2nd Year,73.67,52.19,Nagpur,Pass
+1991,Student_991,19.0,Female,Mechanical,3rd Year,87.07,67.73,Nashik,Pass
+1992,Student_992,23.0,Female,ECE,2nd Year,72.38,39.43,Nagpur,Pass
+1993,Student_993,18.0,Female,Computer Science,1st Year,81.48,49.18,Aurangabad,Pass
+1994,Student_994,20.0,Female,Civil,1st Year,63.34,95.8,Pune,Pass
+1995,Student_995,17.0,Female,ECE,3rd Year,81.99,65.3,Nagpur,Pass
+1996,Student_996,22.0,Female,IT,4th Year,93.77,63.95,Nashik,Pass
+1997,Student_997,17.0,Female,Computer Science,3rd Year,94.09,35.95,Nagpur,Fail
+1998,Student_998,23.0,Male,Mechanical,4th Year,87.6,51.08,Mumbai,Pass
+1998,Student_998,23.0,Male,Mechanical,4th Year,87.6,51.08,Mumbai,Pass
+1997,Student_997,17.0,Female,Computer Science,3rd Year,94.09,35.95,Nagpur,Fail

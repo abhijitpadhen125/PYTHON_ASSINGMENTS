@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Role,Salary,Bonus,Projects_Completed,Performance_Rating
+101,Aarav,IT,Developer,65000,6500,8,4.5
+102,Diya,HR,HR Executive,48000,4800,5,4.0
+103,Rohan,Finance,Accountant,55000,5500,6,4.2
+104,Ananya,IT,Tester,60000,6000,7,4.3
+105,Kabir,Sales,Sales Executive,52000,5200,9,4.6
+106,Ishita,HR,Recruiter,50000,5000,6,4.1
+107,Vivaan,Finance,Financial Analyst,62000,6200,8,4.4
+108,Meera,Sales,Sales Manager,70000,7000,10,4.8
+109,Arjun,IT,Developer,68000,6800,9,4.7
+110,Sneha,Finance,Accountant,57000,5700,7,4.3
